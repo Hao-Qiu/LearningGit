@@ -1,0 +1,1374 @@
+# Species tree for PF14145
+# Generated from Pfam version 33.1
+   |
+   +--Eukaryota (97)
+   |  |
+   |  +--Alveolata (5)
+   |  |  |
+   |  |  +--Apicomplexa (5)
+   |  |     |
+   |  |     +--Aconoidasida (5)
+   |  |        |
+   |  |        +--Haemosporida (5)
+   |  |           |
+   |  |           +--Plasmodiidae (5)
+   |  |              |
+   |  |              +--Plasmodium (5)
+   |  |                 |
+   |  |                 +--Plasmodium knowlesi (strain H) (2)
+   |  |                 |
+   |  |                 +--Plasmodium berghei (strain Anka) (1)
+   |  |                 |
+   |  |                 +--Plasmodium vivax (strain Salvador I) (1)
+   |  |                 |
+   |  |                 +--Plasmodium falciparum (isolate 3D7) (1)
+   |  |
+   |  +--Haptophyceae (1)
+   |  |  |
+   |  |  +--Isochrysidales (1)
+   |  |     |
+   |  |     +--Noelaerhabdaceae (1)
+   |  |        |
+   |  |        +--Emiliania huxleyi (Pontosphaera huxleyi) (1)
+   |  |
+   |  +--Amoebozoa (2)
+   |  |  |
+   |  |  +--Mycetozoa (2)
+   |  |     |
+   |  |     +--Protosteliales (2)
+   |  |        |
+   |  |        +--Cavosteliaceae (2)
+   |  |           |
+   |  |           +--Planoprotostelium fungivorum (2)
+   |  |
+   |  +--Viridiplantae (2)
+   |  |  |
+   |  |  +--Chlorophyta (2)
+   |  |     |
+   |  |     +--Mamiellophyceae (1)
+   |  |     |  |
+   |  |     |  +--Mamiellales (1)
+   |  |     |     |
+   |  |     |     +--Mamiellaceae (1)
+   |  |     |        |
+   |  |     |        +--Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) (Picoplanktonic green alga) (1)
+   |  |     |
+   |  |     +--Chlorophyceae (1)
+   |  |        |
+   |  |        +--Chlamydomonadales (1)
+   |  |           |
+   |  |           +--Chlamydomonadaceae (1)
+   |  |              |
+   |  |              +--Chlamydomonas eustigma (1)
+   |  |
+   |  +--Ichthyosporea (3)
+   |  |  |
+   |  |  +--Ichthyophonida (3)
+   |  |     |
+   |  |     +--Sphaeroforma arctica JP610 (3)
+   |  |
+   |  +--Choanoflagellida (2)
+   |  |  |
+   |  |  +--Craspedida (2)
+   |  |     |
+   |  |     +--Salpingoecidae (2)
+   |  |        |
+   |  |        +--Monosiga brevicollis (Choanoflagellate) (1)
+   |  |        |
+   |  |        +--Salpingoeca rosetta (strain ATCC 50818 / BSB-021) (1)
+   |  |
+   |  +--Heterolobosea (2)
+   |  |  |
+   |  |  +--Schizopyrenida (2)
+   |  |     |
+   |  |     +--Vahlkampfiidae (2)
+   |  |        |
+   |  |        +--Naegleria gruberi (Amoeba) (2)
+   |  |
+   |  +--Stramenopiles (80)
+   |     |
+   |     +--Bacillariophyta (2)
+   |     |  |
+   |     |  +--Bacillariophyceae (2)
+   |     |     |
+   |     |     +--Bacillariophycidae (2)
+   |     |        |
+   |     |        +--Naviculales (2)
+   |     |           |
+   |     |           +--Phaeodactylaceae (2)
+   |     |              |
+   |     |              +--Phaeodactylum tricornutum (strain CCAP 1055/1) (2)
+   |     |
+   |     +--Oomycetes (78)
+   |        |
+   |        +--Peronosporales (46)
+   |        |  |
+   |        |  +--Peronosporaceae (46)
+   |        |     |
+   |        |     +--Phytophthora megakarya (2)
+   |        |     |
+   |        |     +--Phytophthora nicotianae (Buckeye rot agent) (3)
+   |        |     |
+   |        |     +--Peronospora effusa (3)
+   |        |     |
+   |        |     +--Phytophthora parasitica (Potato buckeye rot agent) (6)
+   |        |     |
+   |        |     +--Hyaloperonospora arabidopsidis (strain Emoy2) (Downy mildew agent) (Peronospora arabidopsidis) (2)
+   |        |     |
+   |        |     +--Plasmopara halstedii (Downy mildew of sunflower) (1)
+   |        |     |
+   |        |     +--Phytophthora cactorum (3)
+   |        |     |
+   |        |     +--Bremia lactucae (Lettuce downy mildew) (2)
+   |        |     |
+   |        |     +--Phytophthora parasitica (strain INRA-310) (6)
+   |        |     |
+   |        |     +--Phytophthora ramorum (Sudden oak death agent) (6)
+   |        |     |
+   |        |     +--Phytophthora kernoviae (3)
+   |        |     |
+   |        |     +--Phytophthora infestans (strain T30-4) (Potato late blight fungus) (2)
+   |        |     |
+   |        |     +--Phytophthora sojae (strain P6497) (Soybean stem and root rot agent) (Phytophthora megasperma f. sp. glycines) (7)
+   |        |
+   |        +--Saprolegniales (32)
+   |           |
+   |           +--Saprolegniaceae (32)
+   |              |
+   |              +--Aphanomyces invadans (5)
+   |              |
+   |              +--Saprolegnia diclina (strain VS20) (6)
+   |              |
+   |              +--Achlya hypogyna (4)
+   |              |
+   |              +--Thraustotheca clavata (6)
+   |              |
+   |              +--Aphanomyces astaci (5)
+   |              |
+   |              +--Saprolegnia parasitica (strain CBS 223.65) (6)
+   |
+   +--Bacteria (485)
+   |  |
+   |  +--Cyanobacteria (5)
+   |  |  |
+   |  |  +--Synechococcales (3)
+   |  |  |  |
+   |  |  |  +--Synechococcaceae (3)
+   |  |  |     |
+   |  |  |     +--Synechococcus sp. RS9917 (1)
+   |  |  |     |
+   |  |  |     +--Dactylococcopsis salina PCC 8305 (2)
+   |  |  |
+   |  |  +--Oscillatoriophycideae (2)
+   |  |     |
+   |  |     +--Chroococcales (2)
+   |  |        |
+   |  |        +--Aphanothecaceae (2)
+   |  |           |
+   |  |           +--Halothececluster (2)
+   |  |              |
+   |  |              +--Halothece sp. (strain PCC 7418) (Synechococcus sp. (strain PCC 7418)) (2)
+   |  |
+   |  +--Actinobacteria (106)
+   |  |  |
+   |  |  +--Actinomycetales (1)
+   |  |  |  |
+   |  |  |  +--Actinomycetaceae (1)
+   |  |  |     |
+   |  |  |     +--Actinomyces sp. oral taxon 448 str. F0400 (1)
+   |  |  |
+   |  |  +--Halopolyspora algeriensis (1)
+   |  |  |
+   |  |  +--Nitriliruptoria (1)
+   |  |  |  |
+   |  |  |  +--Euzebya sp. DY32-46 (1)
+   |  |  |
+   |  |  +--Thermoleophilia (1)
+   |  |  |  |
+   |  |  |  +--Solirubrobacterales (1)
+   |  |  |     |
+   |  |  |     +--Conexibacteraceae (1)
+   |  |  |        |
+   |  |  |        +--Conexibacter woesei (strain DSM 14684 / JCM 11494 / NBRC 100937 / ID131577) (1)
+   |  |  |
+   |  |  +--Streptomycetales (12)
+   |  |  |  |
+   |  |  |  +--Streptomycetaceae (11)
+   |  |  |  |  |
+   |  |  |  |  +--Streptomyces sp. WAC00263 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Streptomyces (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145) (1)
+   |  |  |  |  |
+   |  |  |  |  +--Streptomyces sp. CNZ279 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Streptomyces pratensis (strain ATCC 33331 / IAF-45CD) (1)
+   |  |  |  |  |
+   |  |  |  |  +--Streptomyces abyssalis (1)
+   |  |  |  |  |
+   |  |  |  |  +--Candidatus Streptomyces philanthi (1)
+   |  |  |  |  |
+   |  |  |  |  +--Streptomyces qinglanensis (2)
+   |  |  |  |  |
+   |  |  |  |  +--Streptacidiphilus pinicola (1)
+   |  |  |  |  |
+   |  |  |  |  +--Streptomyces sp. NRRL F-6602 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Streptomyces sp. AA4 (1)
+   |  |  |  |
+   |  |  |  +--Streptomycetaceae bacterium MP113-05 (1)
+   |  |  |
+   |  |  +--Propionibacteriales (2)
+   |  |  |  |
+   |  |  |  +--Nocardioidaceae (2)
+   |  |  |     |
+   |  |  |     +--Mumia flava (1)
+   |  |  |     |
+   |  |  |     +--Nocardioides dokdonensis FR1436 (1)
+   |  |  |
+   |  |  +--Micromonosporales (2)
+   |  |  |  |
+   |  |  |  +--Micromonosporaceae (2)
+   |  |  |     |
+   |  |  |     +--Micromonospora echinaurantiaca (1)
+   |  |  |     |
+   |  |  |     +--Micromonospora siamensis (1)
+   |  |  |
+   |  |  +--Geodermatophilales (1)
+   |  |  |  |
+   |  |  |  +--Geodermatophilaceae (1)
+   |  |  |     |
+   |  |  |     +--Modestobacter sp. DSM 44400 (1)
+   |  |  |
+   |  |  +--Jiangellales (2)
+   |  |  |  |
+   |  |  |  +--Jiangellaceae (2)
+   |  |  |     |
+   |  |  |     +--Phytoactinopolyspora sp. YIM 96934 (1)
+   |  |  |     |
+   |  |  |     +--Haloactinopolyspora alba (1)
+   |  |  |
+   |  |  +--Actinopolysporales (2)
+   |  |  |  |
+   |  |  |  +--Actinopolysporaceae (2)
+   |  |  |     |
+   |  |  |     +--Actinopolyspora mortivallis (1)
+   |  |  |     |
+   |  |  |     +--Actinopolyspora erythraea (1)
+   |  |  |
+   |  |  +--Pseudonocardiales (18)
+   |  |  |  |
+   |  |  |  +--Pseudonocardiaceae (18)
+   |  |  |     |
+   |  |  |     +--Amycolatopsis sacchari (1)
+   |  |  |     |
+   |  |  |     +--Saccharomonospora viridis (strain ATCC 15386 / DSM 43017 / JCM 3036 / NBRC 12207 / P101) (1)
+   |  |  |     |
+   |  |  |     +--Saccharopolyspora spinosa (1)
+   |  |  |     |
+   |  |  |     +--Saccharomonospora marina XMU15 (1)
+   |  |  |     |
+   |  |  |     +--Prauserella shujinwangii (1)
+   |  |  |     |
+   |  |  |     +--Saccharopolyspora rectivirgula (1)
+   |  |  |     |
+   |  |  |     +--Prauserella muralis (1)
+   |  |  |     |
+   |  |  |     +--Haloechinothrix alba (1)
+   |  |  |     |
+   |  |  |     +--Actinomycetospora cinnamomea (3)
+   |  |  |     |
+   |  |  |     +--Pseudonocardia sp. EC080619-01 (1)
+   |  |  |     |
+   |  |  |     +--Pseudonocardia sp. HH130629-09 (1)
+   |  |  |     |
+   |  |  |     +--Saccharomonospora sp. LRS4.154 (1)
+   |  |  |     |
+   |  |  |     +--Pseudonocardia ammonioxydans (1)
+   |  |  |     |
+   |  |  |     +--Prauserella sp. Am3 (1)
+   |  |  |     |
+   |  |  |     +--Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338) (1)
+   |  |  |     |
+   |  |  |     +--Saccharopolyspora shandongensis (1)
+   |  |  |
+   |  |  +--Corynebacteriales (21)
+   |  |  |  |
+   |  |  |  +--Corynebacteriaceae (5)
+   |  |  |  |  |
+   |  |  |  |  +--Corynebacterium falsenii DSM 44353 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Corynebacterium geronticis (1)
+   |  |  |  |  |
+   |  |  |  |  +--Corynebacterium aurimucosum (strain ATCC 700975 / DSM 44827 / CN-1) (Corynebacterium nigricans) (1)
+   |  |  |  |  |
+   |  |  |  |  +--Corynebacterium halotolerans YIM 70093 = DSM 44683 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Corynebacterium camporealensis (1)
+   |  |  |  |
+   |  |  |  +--Mycobacteriaceae (2)
+   |  |  |  |  |
+   |  |  |  |  +--Mycobacterium sp. 852002-51759_SCH5129042 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Mycobacterium chubuense (strain NBB4) (1)
+   |  |  |  |
+   |  |  |  +--Nocardiaceae (10)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodococcus sp. MEB064 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodococcus sp. 14-2470-1a (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodococcus sp. MTM3W5.2 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Nocardia farcinica (strain IFM 10152) (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodococcus aetherivorans (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodococcus sp. EPR-157 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodococcus pyridinivorans SB3094 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodococcus sp. PBTS 1 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodococcus sp. P1Y (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodococcus jostii (strain RHA1) (1)
+   |  |  |  |
+   |  |  |  +--Williamsiaceae (2)
+   |  |  |  |  |
+   |  |  |  |  +--Williamsia sp. Leaf354 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Williamsia sp. D3 (1)
+   |  |  |  |
+   |  |  |  +--Dietziaceae (1)
+   |  |  |  |  |
+   |  |  |  |  +--Dietzia sp. UCD-THP (1)
+   |  |  |  |
+   |  |  |  +--Gordoniaceae (1)
+   |  |  |     |
+   |  |  |     +--Gordonia hirsuta DSM 44140 = NBRC 16056 (1)
+   |  |  |
+   |  |  +--Micrococcales (34)
+   |  |  |  |
+   |  |  |  +--Dermabacteraceae (4)
+   |  |  |  |  |
+   |  |  |  |  +--Brachybacterium phenoliresistens (1)
+   |  |  |  |  |
+   |  |  |  |  +--Brachybacterium endophyticum (1)
+   |  |  |  |  |
+   |  |  |  |  +--Brachybacterium faecium (strain ATCC 43885 / DSM 4810 / NCIB 9860) (1)
+   |  |  |  |  |
+   |  |  |  |  +--Brachybacterium faecium (1)
+   |  |  |  |
+   |  |  |  +--Micrococcaceae (11)
+   |  |  |  |  |
+   |  |  |  |  +--Arthrobacter rhombi (1)
+   |  |  |  |  |
+   |  |  |  |  +--Kocuria palustris PEL (1)
+   |  |  |  |  |
+   |  |  |  |  +--Kocuria rhizophila (strain ATCC 9341 / DSM 348 / NBRC 103217 / DC2201) (1)
+   |  |  |  |  |
+   |  |  |  |  +--Arthrobacter agilis (1)
+   |  |  |  |  |
+   |  |  |  |  +--Arthrobacter sp. MYb227 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rothia kristinae (1)
+   |  |  |  |  |
+   |  |  |  |  +--Paeniglutamicibacter gangotriensis Lz1y (1)
+   |  |  |  |  |
+   |  |  |  |  +--Nesterenkonia jeotgali (1)
+   |  |  |  |  |
+   |  |  |  |  +--Arthrobacter psychrochitiniphilus (1)
+   |  |  |  |  |
+   |  |  |  |  +--Arthrobacter livingstonensis (1)
+   |  |  |  |  |
+   |  |  |  |  +--Tersicoccus phoenicis (1)
+   |  |  |  |
+   |  |  |  +--Microbacteriaceae (9)
+   |  |  |  |  |
+   |  |  |  |  +--Herbiconiux ginsengi (1)
+   |  |  |  |  |
+   |  |  |  |  +--Microbacterium humi (1)
+   |  |  |  |  |
+   |  |  |  |  +--Leifsonia sp. Leaf336 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Salinibacterium amurskyense (1)
+   |  |  |  |  |
+   |  |  |  |  +--Microbacterium sp. cf046 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Glaciihabitans tibetensis (1)
+   |  |  |  |  |
+   |  |  |  |  +--Microbacterium agarici (1)
+   |  |  |  |  |
+   |  |  |  |  +--Frigoribacterium sp. JB110 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Agromyces sp. OV415 (1)
+   |  |  |  |
+   |  |  |  +--Bogoriellaceae (1)
+   |  |  |  |  |
+   |  |  |  |  +--Georgenia satyanarayanai (1)
+   |  |  |  |
+   |  |  |  +--Promicromonosporaceae (1)
+   |  |  |  |  |
+   |  |  |  |  +--Isoptericola sp. CG 20/1183 (1)
+   |  |  |  |
+   |  |  |  +--Intrasporangiaceae (1)
+   |  |  |  |  |
+   |  |  |  |  +--Serinicoccus sp. JLT9 (1)
+   |  |  |  |
+   |  |  |  +--Cellulomonadaceae (3)
+   |  |  |  |  |
+   |  |  |  |  +--Cellulomonas sp. TKZ-21 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Cellulomonas biazotea (1)
+   |  |  |  |  |
+   |  |  |  |  +--Cellulomonas sp. Leaf395 (1)
+   |  |  |  |
+   |  |  |  +--Brevibacteriaceae (2)
+   |  |  |  |  |
+   |  |  |  |  +--Brevibacterium casei S18 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Brevibacterium siliguriense (1)
+   |  |  |  |
+   |  |  |  +--Luteimicrobium subarcticum (1)
+   |  |  |  |
+   |  |  |  +--Demequinaceae (1)
+   |  |  |     |
+   |  |  |     +--Lysinimicrobium mangrovi (1)
+   |  |  |
+   |  |  +--Streptosporangiales (8)
+   |  |     |
+   |  |     +--Nocardiopsaceae (8)
+   |  |        |
+   |  |        +--Nocardiopsis flavescens (1)
+   |  |        |
+   |  |        +--Nocardiopsis gilva YIM 90087 (1)
+   |  |        |
+   |  |        +--Nocardiopsis sp. JB363 (1)
+   |  |        |
+   |  |        +--Murinocardiopsis flavida (1)
+   |  |        |
+   |  |        +--Nocardiopsis sp. NRRL B-16309 (1)
+   |  |        |
+   |  |        +--Nocardiopsis sp. L17-MgMaSL7 (1)
+   |  |        |
+   |  |        +--Streptomonospora alba (1)
+   |  |        |
+   |  |        +--Nocardiopsis dassonvillei (strain ATCC 23218 / DSM 43111 / CIP 107115 / JCM 7437 / KCTC 9190 / NBRC 14626 / NCTC 10488 / NRRL B-5397 / IMRU 509) (Actinomadura dassonvillei) (1)
+   |  |
+   |  +--Bacteroidetes (3)
+   |  |  |
+   |  |  +--Bacteroidia (2)
+   |  |  |  |
+   |  |  |  +--Marinilabiliales (2)
+   |  |  |     |
+   |  |  |     +--Prolixibacteraceae (2)
+   |  |  |        |
+   |  |  |        +--Prolixibacter denitrificans (2)
+   |  |  |
+   |  |  +--Cytophagia (1)
+   |  |     |
+   |  |     +--Cytophagales (1)
+   |  |        |
+   |  |        +--Flammeovirgaceae (1)
+   |  |           |
+   |  |           +--Flammeovirga sp. SJP92 (1)
+   |  |
+   |  +--Proteobacteria (281)
+   |  |  |
+   |  |  +--Acidithiobacillia (1)
+   |  |  |  |
+   |  |  |  +--Acidithiobacillales (1)
+   |  |  |     |
+   |  |  |     +--Acidithiobacillaceae (1)
+   |  |  |        |
+   |  |  |        +--Acidithiobacillus sp. SH (1)
+   |  |  |
+   |  |  +--Gammaproteobacteria bacterium MFB021 (1)
+   |  |  |
+   |  |  +--Epsilonproteobacteria (2)
+   |  |  |  |
+   |  |  |  +--Campylobacterales (2)
+   |  |  |     |
+   |  |  |     +--Campylobacteraceae (2)
+   |  |  |        |
+   |  |  |        +--Arcobactergroup (2)
+   |  |  |           |
+   |  |  |           +--Arcobacter nitrofigilis (strain ATCC 33309 / DSM 7299 / LMG 7604 / NCTC 12251 / CI) (Campylobacter nitrofigilis) (1)
+   |  |  |           |
+   |  |  |           +--Arcobacter molluscorum LMG 25693 (1)
+   |  |  |
+   |  |  +--Alphaproteobacteria (171)
+   |  |  |  |
+   |  |  |  +--Rhizobiales (31)
+   |  |  |  |  |
+   |  |  |  |  +--Methyloligella halotolerans (1)
+   |  |  |  |  |
+   |  |  |  |  +--Cohaesibacter sp. H1304 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Aurantimonadaceae (9)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Martelella sp. AD-3 (2)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Martelella endophytica (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Martelella mediterranea DSM 17316 (3)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Consotaella salsifontis (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Aurantimonas sp. 22II-16-19i (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Fulvimarina manganoxydans (1)
+   |  |  |  |  |
+   |  |  |  |  +--Phyllobacteriaceae (6)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Zhengella mangrovi (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Hoeflea sp. IMCC20628 (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Hoeflea phototrophica (strain DSM 17068 / NCIMB 14078 / DFL-43) (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Hoeflea olei (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Mesorhizobium oceanicum (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Nitratireductor sp. StC3 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Cohaesibacter sp. ES.047 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Cohaesibacter marisflavi (1)
+   |  |  |  |  |
+   |  |  |  |  +--Hyphomicrobiaceae (4)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Candidatus Filomicrobium marinum (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Pelagibacterium halotolerans (strain DSM 22347 / JCM 15775 / CGMCC 1.7692 / B2) (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Devosia sp. I507 (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Dichotomicrobium thermohalophilum (1)
+   |  |  |  |  |
+   |  |  |  |  +--Notoacmeibacteraceae (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Notoacmeibacter sp. M2BS9Y-3-1 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodobiaceae (4)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Lutibaculum baratangense AMV1 (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Rhodobium orientis (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Tepidicaulis marinus (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Afifella marina DSM 2698 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Hartmannibacter diazotrophicus (1)
+   |  |  |  |  |
+   |  |  |  |  +--Cohaesibacteraceae (2)
+   |  |  |  |     |
+   |  |  |  |     +--Breoghania corrubedonensis (2)
+   |  |  |  |
+   |  |  |  +--Rhodospirillales (8)
+   |  |  |  |  |
+   |  |  |  |  +--Rhodospirillaceae (8)
+   |  |  |  |     |
+   |  |  |  |     +--Tistlia consotensis USBA 355 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Limimonas halophila (1)
+   |  |  |  |     |
+   |  |  |  |     +--Thalassospira sp. HJ (1)
+   |  |  |  |     |
+   |  |  |  |     +--Thalassobaculum litoreum DSM 18839 (2)
+   |  |  |  |     |
+   |  |  |  |     +--Thalassospira sp. TSL5-1 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Rhodospira trueperi (1)
+   |  |  |  |     |
+   |  |  |  |     +--Caenispirillum salinarum AK4 (1)
+   |  |  |  |
+   |  |  |  +--Parvularculales (1)
+   |  |  |  |  |
+   |  |  |  |  +--Parvularculaceae (1)
+   |  |  |  |     |
+   |  |  |  |     +--Marinicaulis flavus (1)
+   |  |  |  |
+   |  |  |  +--Sphingomonadales (9)
+   |  |  |  |  |
+   |  |  |  |  +--Sphingomonadaceae (3)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Novosphingobium sp. MBES04 (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Novosphingobium malaysiense (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Novosphingobium sp. PC22D (1)
+   |  |  |  |  |
+   |  |  |  |  +--Erythrobacteraceae (6)
+   |  |  |  |     |
+   |  |  |  |     +--Erythrobacter lutimaris (1)
+   |  |  |  |     |
+   |  |  |  |     +--Altererythrobacter atlanticus (1)
+   |  |  |  |     |
+   |  |  |  |     +--Erythrobacter sp. HI0063 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Erythrobacter sp. V18 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Erythrobacter litoralis (1)
+   |  |  |  |     |
+   |  |  |  |     +--Altererythrobacter sp. HN-Y73 (1)
+   |  |  |  |
+   |  |  |  +--Rhizobiales bacterium NRL2 (1)
+   |  |  |  |
+   |  |  |  +--Rhodobacterales (121)
+   |  |  |     |
+   |  |  |     +--Rhodobacteraceae bacterium PD-2 (1)
+   |  |  |     |
+   |  |  |     +--Rhodobacteraceae bacterium KLH11 (1)
+   |  |  |     |
+   |  |  |     +--Rhodobacteraceae bacterium Lw-13e (1)
+   |  |  |     |
+   |  |  |     +--Hyphomonadaceae (4)
+   |  |  |     |  |
+   |  |  |     |  +--Hyphomonas jannaschiana VP2 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Henriciella algicola (1)
+   |  |  |     |  |
+   |  |  |     |  +--Oceanicaulis sp. HTCC2633 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Henriciella sp. JN25 (1)
+   |  |  |     |
+   |  |  |     +--Rhodobacteraceae (113)
+   |  |  |     |  |
+   |  |  |     |  +--Sulfitobacter sp. SK012 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Rhodovulum sp. ES.010 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Thioclava indica (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseisalinus antarcticus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Rubrimonas cliftonensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Antarctobacter heliothermus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Jannaschia seohaensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Jannaschia helgolandensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Sulfitobacter sp. AM1-D1 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Poseidonocella pacifica (1)
+   |  |  |     |  |
+   |  |  |     |  +--Sagittula stellata E-37 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Thioclava sp. SK-1 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Nesiotobacter exalbescens (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pelagibaca bermudensis (strain DSM 26914 / JCM 13377 / KCTC 12554 / HTCC2601) (Salipiger bermudensis) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Dinoroseobacter shibae (strain DSM 16493 / NCIMB 14021 / DFL 12) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Palleronia abyssalis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseivivax lentus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseovarius pacificus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Phaeobacter sp. CECT 7735 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Salipiger profundus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Primorskyibacter insulae (1)
+   |  |  |     |  |
+   |  |  |     |  +--Wenxinia marina DSM 24838 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Labrenzia alexandrii (1)
+   |  |  |     |  |
+   |  |  |     |  +--Maritimibacter alkaliphilus HTCC2654 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Jannaschia seosinensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Jannaschia rubra (1)
+   |  |  |     |  |
+   |  |  |     |  +--Tranquillimonas alkanivorans (1)
+   |  |  |     |  |
+   |  |  |     |  +--Paracoccus isoporae (1)
+   |  |  |     |  |
+   |  |  |     |  +--Paracoccus homiensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Citreimonas salinaria (1)
+   |  |  |     |  |
+   |  |  |     |  +--Sulfitobacter marinus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pseudooceanicola sp. CY03 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseivivax halotolerans (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pseudooceanicola batsensis (strain ATCC BAA-863 / DSM 15984 / KCTC 12145 / HTCC2597) (Oceanicola batsensis) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseovarius sp. HN-E21 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Loktanella atrilutea (1)
+   |  |  |     |  |
+   |  |  |     |  +--Donghicola sp. KarMa (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseovarius nanhaiticus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pararhodobacter sp. CIC4N-9 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseivivax roseus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pontivivens insulae (1)
+   |  |  |     |  |
+   |  |  |     |  +--Hwanghaeicola aestuarii (1)
+   |  |  |     |  |
+   |  |  |     |  +--Labrenzia alba (3)
+   |  |  |     |  |
+   |  |  |     |  +--Amylibacter cionae (1)
+   |  |  |     |  |
+   |  |  |     |  +--Maribius salinus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Albimonas pacifica (1)
+   |  |  |     |  |
+   |  |  |     |  +--Lutimaribacter saemankumensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Thioclava atlantica (1)
+   |  |  |     |  |
+   |  |  |     |  +--Marinibacterium profundimaris (1)
+   |  |  |     |  |
+   |  |  |     |  +--Citreicella sp. SE45 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseicyclus mahoneyensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseivivax halodurans JCM 10272 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Yangia sp. CCB-MM3 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pelagivirga sediminicola (1)
+   |  |  |     |  |
+   |  |  |     |  +--Paracoccus sp. SM22M-07 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Paracoccus saliphilus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Albimonas donghaensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseovarius albus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Palleronia marisminoris (1)
+   |  |  |     |  |
+   |  |  |     |  +--Rhodosalinus sp. E84 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pseudooceanicola marinus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Halocynthiibacter arcticus (2)
+   |  |  |     |  |
+   |  |  |     |  +--Roseovarius nubinhibens (strain ATCC BAA-591 / DSM 15170 / ISM) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pelagibaca abyssi (1)
+   |  |  |     |  |
+   |  |  |     |  +--Sulfitobacter pseudonitzschiae (1)
+   |  |  |     |  |
+   |  |  |     |  +--Tritonibacter horizontis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Defluviimonas sp. 20V17 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Rhodovulum sulfidophilum (Rhodobacter sulfidophilus) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Marinovum algicola DG 898 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Phaeobacter sp. 22II1-1F12B (1)
+   |  |  |     |  |
+   |  |  |     |  +--Labrenzia sp. OB1 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pacificibacter marinus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Thioclava dalianensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseivivax jejudonensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pseudooceanicola nitratireducens (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseovarius halotolerans (1)
+   |  |  |     |  |
+   |  |  |     |  +--Jannaschia donghaensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pseudooceanicola flagellatus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseivivax marinus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Labrenzia sp. VG12 (2)
+   |  |  |     |  |
+   |  |  |     |  +--Mameliella alba (1)
+   |  |  |     |  |
+   |  |  |     |  +--Citreicella sp. 357 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseivivax pacificus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Rhodovulum sp. P5 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Thalassococcus sp. WRAS1 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Rhodovulum robiginosum (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pseudooceanicola atlanticus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Wenxinia saemankumensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseovarius atlanticus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Tropicibacter naphthalenivorans (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pseudooceanicola lipolyticus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Tropicimonas isoalkanivorans (1)
+   |  |  |     |  |
+   |  |  |     |  +--Cribrihabitans marinus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Phaeobacter inhibens (strain ATCC 700781 / DSM 17395 / CIP 105210 / JCM 21319 / NBRC 16654 / NCIMB 13546 / BS107) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Ponticoccus marisrubri (1)
+   |  |  |     |  |
+   |  |  |     |  +--Yangia sp. SAOS 153D (1)
+   |  |  |     |  |
+   |  |  |     |  +--Paracoccus seriniphilus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Puniceibacterium antarcticum (1)
+   |  |  |     |  |
+   |  |  |     |  +--Labrenzia aggregata (1)
+   |  |  |     |  |
+   |  |  |     |  +--Puniceibacterium sediminis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseovarius sp. 22II1-1F6A (1)
+   |  |  |     |  |
+   |  |  |     |  +--Oceanicola sp. 22II-s10i (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pacificibacter maritimus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Salipiger mucosus DSM 16094 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Roseovarius indicus (1)
+   |  |  |     |  |
+   |  |  |     |  +--Pseudoroseicyclus aestuarii (1)
+   |  |  |     |  |
+   |  |  |     |  +--Stappia sp. 22II-S9-Z10 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Stappia sp. ES.058 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Flavimaricola marinus (1)
+   |  |  |     |
+   |  |  |     +--Rhodobacteraceae bacterium TG-679 (1)
+   |  |  |
+   |  |  +--Gammaproteobacteria (102)
+   |  |  |  |
+   |  |  |  +--Enterobacterales (3)
+   |  |  |  |  |
+   |  |  |  |  +--Yersiniaceae (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Serratia sp. (strain ATCC 39006) (1)
+   |  |  |  |  |
+   |  |  |  |  +--Erwiniaceae (2)
+   |  |  |  |     |
+   |  |  |  |     +--Pantoea wallisii (1)
+   |  |  |  |     |
+   |  |  |  |     +--Pantoea ananatis (strain LMG 20103) (1)
+   |  |  |  |
+   |  |  |  +--Pasteurellales (3)
+   |  |  |  |  |
+   |  |  |  |  +--Pasteurellaceae (3)
+   |  |  |  |     |
+   |  |  |  |     +--Pasteurella skyensis (1)
+   |  |  |  |     |
+   |  |  |  |     +--Phocoenobacter uteri (1)
+   |  |  |  |     |
+   |  |  |  |     +--Otariodibacter oris (1)
+   |  |  |  |
+   |  |  |  +--Thiohalorhabdus denitrificans (1)
+   |  |  |  |
+   |  |  |  +--Alteromonadales (20)
+   |  |  |  |  |
+   |  |  |  |  +--Pseudoalteromonadaceae (2)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Pseudoalteromonas luteoviolacea B = ATCC 29581 (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Pseudoalteromonas atlantica (strain T6c / ATCC BAA-1087) (1)
+   |  |  |  |  |
+   |  |  |  |  +--Shewanellaceae (3)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Shewanella sp. P1-14-1 (2)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Shewanella algae (1)
+   |  |  |  |  |
+   |  |  |  |  +--Psychromonadaceae (2)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Psychromonas ingrahamii (strain 37) (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Psychromonas sp. B3M02 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Idiomarinaceae (2)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Idiomarina xiamenensis 10-D-4 (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Idiomarina baltica OS145 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Alteromonadaceae (11)
+   |  |  |  |     |
+   |  |  |  |     +--Marinobacter sp. BSs20148 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Marinobacter gudaonensis (1)
+   |  |  |  |     |
+   |  |  |  |     +--Aestuariibacter aggregatus (1)
+   |  |  |  |     |
+   |  |  |  |     +--Marinobacter antarcticus (1)
+   |  |  |  |     |
+   |  |  |  |     +--Marinobacter nanhaiticus D15-8W (1)
+   |  |  |  |     |
+   |  |  |  |     +--Marinobacter daqiaonensis (2)
+   |  |  |  |     |
+   |  |  |  |     +--Marinobacter lutaoensis (1)
+   |  |  |  |     |
+   |  |  |  |     +--Alteromonas confluentis (1)
+   |  |  |  |     |
+   |  |  |  |     +--Alteromonas pelagimontana (1)
+   |  |  |  |     |
+   |  |  |  |     +--Salinimonas sp. N102 (1)
+   |  |  |  |
+   |  |  |  +--Salinisphaerales (13)
+   |  |  |  |  |
+   |  |  |  |  +--Salinisphaeraceae (13)
+   |  |  |  |     |
+   |  |  |  |     +--Salinisphaera japonica YTM-1 (4)
+   |  |  |  |     |
+   |  |  |  |     +--Salinisphaera orenii MK-B5 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Salinisphaera hydrothermalis (strain C41B8) (2)
+   |  |  |  |     |
+   |  |  |  |     +--Salinisphaera shabanensis E1L3A (1)
+   |  |  |  |     |
+   |  |  |  |     +--Salinisphaera sp. Q1T1-3 (5)
+   |  |  |  |
+   |  |  |  +--Vibrionales (9)
+   |  |  |  |  |
+   |  |  |  |  +--Vibrionaceae (9)
+   |  |  |  |     |
+   |  |  |  |     +--Vibrio palustris (1)
+   |  |  |  |     |
+   |  |  |  |     +--Salinivibrio sp. KP-1 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Vibrio sp. UCD-FRSSP16_10 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Vibrio mangrovi (1)
+   |  |  |  |     |
+   |  |  |  |     +--Vibrio ishigakensis (1)
+   |  |  |  |     |
+   |  |  |  |     +--Vibrio proteolyticus NBRC 13287 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Vibrio aerogenes CECT 7868 (1)
+   |  |  |  |     |
+   |  |  |  |     +--Vibrio xiamenensis (1)
+   |  |  |  |     |
+   |  |  |  |     +--Vibrio variabilis (1)
+   |  |  |  |
+   |  |  |  +--Cellvibrionales (2)
+   |  |  |  |  |
+   |  |  |  |  +--Cellvibrionaceae (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Teredinibacter turnerae (strain ATCC 39867 / T7901) (1)
+   |  |  |  |  |
+   |  |  |  |  +--Spongiibacteraceae (1)
+   |  |  |  |     |
+   |  |  |  |     +--Spongiibacter sp. IMCC21906 (1)
+   |  |  |  |
+   |  |  |  +--Chromatiales (11)
+   |  |  |  |  |
+   |  |  |  |  +--Ectothiorhodospiraceae (4)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Acidihalobacter ferrooxidans (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Alkalilimnicola ehrlichii (2)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Acidihalobacter prosperus (1)
+   |  |  |  |  |
+   |  |  |  |  +--Chromatiaceae (4)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Thioflavicoccus mobilis 8321 (2)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Thiohalocapsa (2)
+   |  |  |  |  |     |
+   |  |  |  |  |     +--uncultured Thiohalocapsa sp. PB-PSB1 (2)
+   |  |  |  |  |
+   |  |  |  |  +--Granulosicoccaceae (1)
+   |  |  |  |  |  |
+   |  |  |  |  |  +--Granulosicoccus antarcticus IMCC3135 (1)
+   |  |  |  |  |
+   |  |  |  |  +--Halothiobacillaceae (2)
+   |  |  |  |     |
+   |  |  |  |     +--Halothiobacillus neapolitanus (strain ATCC 23641 / c2) (Thiobacillus neapolitanus) (1)
+   |  |  |  |     |
+   |  |  |  |     +--Halothiobacillus sp. LS2 (1)
+   |  |  |  |
+   |  |  |  +--Thiotrichales (2)
+   |  |  |  |  |
+   |  |  |  |  +--Piscirickettsiaceae (2)
+   |  |  |  |     |
+   |  |  |  |     +--Hydrogenovibrio crunogenus (strain XCL-2) (Thiomicrospira crunogena) (1)
+   |  |  |  |     |
+   |  |  |  |     +--Methylophaga aminisulfidivorans MP (1)
+   |  |  |  |
+   |  |  |  +--Oceanospirillales (38)
+   |  |  |     |
+   |  |  |     +--Saccharospirillaceae (2)
+   |  |  |     |  |
+   |  |  |     |  +--Gynuella sunshinyii YC6258 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Saccharospirillum sp. MSK14-1 (1)
+   |  |  |     |
+   |  |  |     +--Halomonadaceae (25)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas muralis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas gudaonensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Aidingimonas halophila (1)
+   |  |  |     |  |
+   |  |  |     |  +--Cobetia sp. UCD-24C (1)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas olivaria (1)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas huangheensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Kushneria sp. YCWA18 (4)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas xianhensis (2)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas nitroreducens (1)
+   |  |  |     |  |
+   |  |  |     |  +--Kushneria marisflavi (3)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas heilongjiangensis (1)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas aestuarii (1)
+   |  |  |     |  |
+   |  |  |     |  +--Chromohalobacter salexigens (strain DSM 3043 / ATCC BAA-138 / NCIMB 13768) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas anticariensis (strain DSM 16096 / FP35) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas elongata (strain ATCC 33173 / DSM 2581 / NBRC 15536 / NCIMB 2198 / 1H9) (2)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas sp. G11 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Salinicola sp. MIT1003 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Halomonas taeanensis (1)
+   |  |  |     |
+   |  |  |     +--Alcanivoracaceae (3)
+   |  |  |     |  |
+   |  |  |     |  +--Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Alcanivorax sp. N3-2A (1)
+   |  |  |     |  |
+   |  |  |     |  +--Alcanivorax dieselolei (strain DSM 16502 / CGMCC 1.3690 / B-5) (1)
+   |  |  |     |
+   |  |  |     +--Oceanospirillaceae (6)
+   |  |  |     |  |
+   |  |  |     |  +--Marinomonas spartinae (1)
+   |  |  |     |  |
+   |  |  |     |  +--Marinomonas sp. (strain MWYL1) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Marinomonas sp. YLB-05 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Oleibacter sp. HI0075 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Neptunomonas sp. HPM-16 (1)
+   |  |  |     |  |
+   |  |  |     |  +--Marinomonas pollencensis (1)
+   |  |  |     |
+   |  |  |     +--unclassifiedOceanospirillales (2)
+   |  |  |        |
+   |  |  |        +--Terasakiispira papahanaumokuakeensis (2)
+   |  |  |
+   |  |  +--Betaproteobacteria (1)
+   |  |  |  |
+   |  |  |  +--Burkholderiales (1)
+   |  |  |     |
+   |  |  |     +--Comamonadaceae (1)
+   |  |  |        |
+   |  |  |        +--Comamonas kerstersii (1)
+   |  |  |
+   |  |  +--Deltaproteobacteria (3)
+   |  |     |
+   |  |     +--Desulfarculales (1)
+   |  |     |  |
+   |  |     |  +--Desulfarculaceae (1)
+   |  |     |     |
+   |  |     |     +--Desulfocarbo indianensis (1)
+   |  |     |
+   |  |     +--Desulfobacterales (2)
+   |  |        |
+   |  |        +--Desulfobulbaceae (2)
+   |  |           |
+   |  |           +--Desulfofustis (2)
+   |  |              |
+   |  |              +--uncultured Desulfofustis sp. PB-SRB1 (2)
+   |  |
+   |  +--Deinococcus-Thermus (1)
+   |  |  |
+   |  |  +--Deinococci (1)
+   |  |     |
+   |  |     +--Thermales (1)
+   |  |        |
+   |  |        +--Thermaceae (1)
+   |  |           |
+   |  |           +--Oceanithermus profundus (strain DSM 14977 / NBRC 100410 / VKM B-2274 / 506) (1)
+   |  |
+   |  +--Deferribacteres (1)
+   |  |  |
+   |  |  +--Deferribacterales (1)
+   |  |     |
+   |  |     +--Deferribacteraceae (1)
+   |  |        |
+   |  |        +--Flexistipes sinusarabici (strain DSM 4947 / MAS 10) (1)
+   |  |
+   |  +--Firmicutes (88)
+   |     |
+   |     +--Bacilli (88)
+   |        |
+   |        +--Lactobacillales (26)
+   |        |  |
+   |        |  +--Carnobacteriaceae (11)
+   |        |  |  |
+   |        |  |  +--Alloiococcus otitis ATCC 51267 (1)
+   |        |  |  |
+   |        |  |  +--Marinilactibacillus sp. 15R (1)
+   |        |  |  |
+   |        |  |  +--Alkalibacterium pelagium (1)
+   |        |  |  |
+   |        |  |  +--Alkalibacterium sp. AK22 (1)
+   |        |  |  |
+   |        |  |  +--Alkalibacterium sp. 20 (1)
+   |        |  |  |
+   |        |  |  +--Desemzia incerta (1)
+   |        |  |  |
+   |        |  |  +--Carnobacterium sp. CP1 (2)
+   |        |  |  |
+   |        |  |  +--Alkalibacterium gilvum (1)
+   |        |  |  |
+   |        |  |  +--Atopostipes suicloacalis DSM 15692 (1)
+   |        |  |  |
+   |        |  |  +--Jeotgalibaca dankookensis (1)
+   |        |  |
+   |        |  +--Pisciglobus halotolerans (1)
+   |        |  |
+   |        |  +--Enterococcaceae (11)
+   |        |  |  |
+   |        |  |  +--Enterococcus sp. HSIEG1 (1)
+   |        |  |  |
+   |        |  |  +--Enterococcus faecium DO (1)
+   |        |  |  |
+   |        |  |  +--Tetragenococcus muriaticus 3MR10-3 (1)
+   |        |  |  |
+   |        |  |  +--Enterococcus hirae (strain ATCC 9790 / DSM 20160 / JCM 8729 / LMG 6399 / NBRC 3181 / NCIMB 6459 / NCDO 1258) (1)
+   |        |  |  |
+   |        |  |  +--Enterococcus pallens ATCC BAA-351 (1)
+   |        |  |  |
+   |        |  |  +--Enterococcus casseliflavus EC20 (1)
+   |        |  |  |
+   |        |  |  +--Enterococcus hermanniensis (1)
+   |        |  |  |
+   |        |  |  +--Enterococcus mundtii QU 25 (1)
+   |        |  |  |
+   |        |  |  +--Enterococcus durans (1)
+   |        |  |  |
+   |        |  |  +--Enterococcus devriesei (1)
+   |        |  |  |
+   |        |  |  +--Tetragenococcus halophilus (strain DSM 20338 / JCM 20259 / NCIMB 9735 / NBRC 12172) (Pediococcus halophilus) (1)
+   |        |  |
+   |        |  +--Aerococcaceae (3)
+   |        |     |
+   |        |     +--Aerococcus urinaehominis (1)
+   |        |     |
+   |        |     +--Aerococcus urinae (strain ACS-120-V-Col10a) (1)
+   |        |     |
+   |        |     +--Aerococcus sanguinicola (1)
+   |        |
+   |        +--Bacillales (62)
+   |           |
+   |           +--Staphylococcaceae (3)
+   |           |  |
+   |           |  +--Staphylococcus lentus (1)
+   |           |  |
+   |           |  +--Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229 / NCIMB 8711 / NCTC 7292 / S-41) (1)
+   |           |  |
+   |           |  +--Staphylococcus haemolyticus (strain JCSC1435) (1)
+   |           |
+   |           +--Salipaludibacillus neizhouensis (2)
+   |           |
+   |           +--Planococcaceae (5)
+   |           |  |
+   |           |  +--Planococcus rifietoensis (1)
+   |           |  |
+   |           |  +--Planococcus salinus (1)
+   |           |  |
+   |           |  +--Planococcus halotolerans (1)
+   |           |  |
+   |           |  +--Planococcus sp. Y42 (2)
+   |           |
+   |           +--Paenibacillaceae (9)
+   |           |  |
+   |           |  +--Geobacillus sp. (strain Y412MC10) (1)
+   |           |  |
+   |           |  +--Paenibacillus sp. 7541 (1)
+   |           |  |
+   |           |  +--Paenibacillus bovis (1)
+   |           |  |
+   |           |  +--Paenibacillus sp. SMB1 (1)
+   |           |  |
+   |           |  +--Paenibacillus rhizosphaerae (1)
+   |           |  |
+   |           |  +--Paenibacillus sp. CAA11 (1)
+   |           |  |
+   |           |  +--Paenibacillus sp. TI45-13ar (1)
+   |           |  |
+   |           |  +--Paenibacillus sp. DMB20 (1)
+   |           |  |
+   |           |  +--Paenibacillus sp. TCA20 (1)
+   |           |
+   |           +--Bacillaceae (41)
+   |           |  |
+   |           |  +--Bacillus infantis NRRL B-14911 (1)
+   |           |  |
+   |           |  +--Halobacillus sp. BBL2006 (1)
+   |           |  |
+   |           |  +--Bacillus nealsonii (1)
+   |           |  |
+   |           |  +--Halobacillus halophilus (strain ATCC 35676 / DSM 2266 / JCM 20832 / NBRC 102448/ NCIMB 2269) (Sporosarcina halophila) (1)
+   |           |  |
+   |           |  +--Gracilibacillus dipsosauri (1)
+   |           |  |
+   |           |  +--Bacillus sp. FJAT-27231 (1)
+   |           |  |
+   |           |  +--Gracilibacillus halophilus YIM-C55.5 (1)
+   |           |  |
+   |           |  +--Aquisalibacillus elongatus (1)
+   |           |  |
+   |           |  +--Virgibacillus massiliensis (1)
+   |           |  |
+   |           |  +--Alteribacillus bidgolensis (1)
+   |           |  |
+   |           |  +--Bacillus subtilis (strain 168) (1)
+   |           |  |
+   |           |  +--Terribacillus goriensis (1)
+   |           |  |
+   |           |  +--Quasibacillus thermotolerans (1)
+   |           |  |
+   |           |  +--Saliterribacillus persicus (1)
+   |           |  |
+   |           |  +--Oceanobacillus sp. YLB-02 (1)
+   |           |  |
+   |           |  +--Paraliobacillus ryukyuensis (1)
+   |           |  |
+   |           |  +--Gracilibacillus boraciitolerans JCM 21714 (1)
+   |           |  |
+   |           |  +--Bacillus salacetis (1)
+   |           |  |
+   |           |  +--Oceanobacillus oncorhynchi (1)
+   |           |  |
+   |           |  +--Bacillus sp. UMB0899 (1)
+   |           |  |
+   |           |  +--Salimicrobium jeotgali (1)
+   |           |  |
+   |           |  +--Bacillus sp. SG-1 (1)
+   |           |  |
+   |           |  +--Gracilibacillus kekensis (1)
+   |           |  |
+   |           |  +--Lentibacillus persicus (2)
+   |           |  |
+   |           |  +--Gracilibacillus ureilyticus (1)
+   |           |  |
+   |           |  +--Bacillus sp. AFS040349 (1)
+   |           |  |
+   |           |  +--Bacillus pseudofirmus (strain OF4) (1)
+   |           |  |
+   |           |  +--Sediminibacillus albus (1)
+   |           |  |
+   |           |  +--Alteribacillus iranensis (2)
+   |           |  |
+   |           |  +--Pontibacillus chungwhensis BH030062 (1)
+   |           |  |
+   |           |  +--Pontibacillus marinus BH030004 = DSM 16465 (1)
+   |           |  |
+   |           |  +--Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46) (1)
+   |           |  |
+   |           |  +--Bacillus filamentosus (1)
+   |           |  |
+   |           |  +--Bacillus salarius (2)
+   |           |  |
+   |           |  +--Virgibacillus necropolis (1)
+   |           |  |
+   |           |  +--Thalassobacillus cyri (1)
+   |           |  |
+   |           |  +--Pontibacillus yanchengensis Y32 (1)
+   |           |  |
+   |           |  +--Virgibacillus salinus (1)
+   |           |
+   |           +--Salibacterium qingdaonense (1)
+   |           |
+   |           +--Sporolactobacillaceae (1)
+   |              |
+   |              +--Sinobaca qinghaiensis (1)
+   |
+   +--archaeon (2)
+   |
+   +--Archaea (10)
+      |
+      +--Euryarchaeota (10)
+         |
+         +--Diaforarchaeagroup (6)
+         |  |
+         |  +--Thermoplasmata (6)
+         |     |
+         |     +--Thermoplasmatales archaeon A-plasma (1)
+         |     |
+         |     +--Thermoplasmatales (4)
+         |     |  |
+         |     |  +--Picrophilaceae (1)
+         |     |  |  |
+         |     |  |  +--Picrophilus torridus (strain ATCC 700027 / DSM 9790 / JCM 10055 / NBRC 100828) (1)
+         |     |  |
+         |     |  +--Ferroplasmaceae (3)
+         |     |     |
+         |     |     +--Ferroplasma acidarmanus fer1 (2)
+         |     |     |
+         |     |     +--Acidiplasma cupricumulans (1)
+         |     |
+         |     +--Thermoplasmatales archaeon Gpl (1)
+         |
+         +--Methanomadagroup (1)
+         |  |
+         |  +--Methanobacteria (1)
+         |     |
+         |     +--Methanobacteriales (1)
+         |        |
+         |        +--Methanobacteriaceae (1)
+         |           |
+         |           +--Methanobacterium sp. A39 (1)
+         |
+         +--Stenosarchaeagroup (3)
+            |
+            +--Halobacteria (3)
+               |
+               +--Haloferacales (2)
+               |  |
+               |  +--Halorubraceae (1)
+               |  |  |
+               |  |  +--Salinigranum rubrum (1)
+               |  |
+               |  +--Haloferacaceae (1)
+               |     |
+               |     +--Halogeometricum pallidum JCM 14848 (1)
+               |
+               +--Halobacteriales (1)
+                  |
+                  +--Halococcaceae (1)
+                     |
+                     +--Halococcus hamelinensis 100A6 (1)
