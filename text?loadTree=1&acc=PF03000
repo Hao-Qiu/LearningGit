@@ -1,0 +1,658 @@
+# Species tree for PF03000
+# Generated from Pfam version 33.1
+   |
+   +--Eukaryota (3788)
+   |  |
+   |  +--Metazoa (18)
+   |  |  |
+   |  |  +--Lophotrochozoa (6)
+   |  |  |  |
+   |  |  |  +--Annelida (1)
+   |  |  |  |  |
+   |  |  |  |  +--Polychaeta (1)
+   |  |  |  |     |
+   |  |  |  |     +--Scolecida (1)
+   |  |  |  |        |
+   |  |  |  |        +--Capitellida (1)
+   |  |  |  |           |
+   |  |  |  |           +--Capitellidae (1)
+   |  |  |  |              |
+   |  |  |  |              +--Capitella teleta (Polychaete worm) (1)
+   |  |  |  |
+   |  |  |  +--Mollusca (5)
+   |  |  |     |
+   |  |  |     +--Gastropoda (3)
+   |  |  |     |  |
+   |  |  |     |  +--Heterobranchia (2)
+   |  |  |     |  |  |
+   |  |  |     |  |  +--Euthyneura (2)
+   |  |  |     |  |     |
+   |  |  |     |  |     +--Panpulmonata (2)
+   |  |  |     |  |        |
+   |  |  |     |  |        +--Hygrophila (1)
+   |  |  |     |  |        |  |
+   |  |  |     |  |        |  +--Lymnaeoidea (1)
+   |  |  |     |  |        |     |
+   |  |  |     |  |        |     +--Planorbidae (1)
+   |  |  |     |  |        |        |
+   |  |  |     |  |        |        +--Biomphalaria glabrata (Bloodfluke planorb) (Freshwater snail) (1)
+   |  |  |     |  |        |
+   |  |  |     |  |        +--Sacoglossa (1)
+   |  |  |     |  |           |
+   |  |  |     |  |           +--Placobranchoidea (1)
+   |  |  |     |  |              |
+   |  |  |     |  |              +--Placobranchidae (1)
+   |  |  |     |  |                 |
+   |  |  |     |  |                 +--Elysia chlorotica (Eastern emerald elysia) (Sea slug) (1)
+   |  |  |     |  |
+   |  |  |     |  +--Caenogastropoda (1)
+   |  |  |     |     |
+   |  |  |     |     +--Architaenioglossa (1)
+   |  |  |     |        |
+   |  |  |     |        +--Ampullarioidea (1)
+   |  |  |     |           |
+   |  |  |     |           +--Ampullariidae (1)
+   |  |  |     |              |
+   |  |  |     |              +--Pomacea canaliculata (Golden apple snail) (1)
+   |  |  |     |
+   |  |  |     +--Bivalvia (2)
+   |  |  |        |
+   |  |  |        +--Pteriomorphia (2)
+   |  |  |           |
+   |  |  |           +--Pectinoida (1)
+   |  |  |           |  |
+   |  |  |           |  +--Pectinoidea (1)
+   |  |  |           |     |
+   |  |  |           |     +--Pectinidae (1)
+   |  |  |           |        |
+   |  |  |           |        +--Mizuhopecten yessoensis (Japanese scallop) (Patinopecten yessoensis) (1)
+   |  |  |           |
+   |  |  |           +--Ostreoida (1)
+   |  |  |              |
+   |  |  |              +--Ostreoidea (1)
+   |  |  |                 |
+   |  |  |                 +--Ostreidae (1)
+   |  |  |                    |
+   |  |  |                    +--Crassostrea gigas (Pacific oyster) (Crassostrea angulata) (1)
+   |  |  |
+   |  |  +--Platyhelminthes (12)
+   |  |     |
+   |  |     +--Rhabditophora (6)
+   |  |     |  |
+   |  |     |  +--Macrostomorpha (6)
+   |  |     |     |
+   |  |     |     +--Macrostomida (6)
+   |  |     |        |
+   |  |     |        +--Macrostomidae (6)
+   |  |     |           |
+   |  |     |           +--Macrostomum lignano (6)
+   |  |     |
+   |  |     +--Cestoda (6)
+   |  |        |
+   |  |        +--Eucestoda (6)
+   |  |           |
+   |  |           +--Diphyllobothriidea (1)
+   |  |           |  |
+   |  |           |  +--Diphyllobothriidae (1)
+   |  |           |     |
+   |  |           |     +--Schistocephalus solidus (Tapeworm) (1)
+   |  |           |
+   |  |           +--Cyclophyllidea (5)
+   |  |              |
+   |  |              +--Taeniidae (4)
+   |  |              |  |
+   |  |              |  +--Hydatigena taeniaeformis (Feline tapeworm) (Taenia taeniaeformis) (1)
+   |  |              |  |
+   |  |              |  +--Echinococcus multilocularis (Fox tapeworm) (1)
+   |  |              |  |
+   |  |              |  +--Taenia asiatica (Asian tapeworm) (1)
+   |  |              |  |
+   |  |              |  +--Echinococcus (1)
+   |  |              |     |
+   |  |              |     +--Echinococcus granulosus (Hydatid tapeworm) (1)
+   |  |              |
+   |  |              +--Mesocestoididae (1)
+   |  |                 |
+   |  |                 +--Mesocestoides corti (1)
+   |  |
+   |  +--Viridiplantae (3770)
+   |     |
+   |     +--Streptophyta (3770)
+   |        |
+   |        +--Embryophyta (3760)
+   |        |  |
+   |        |  +--Tracheophyta (3718)
+   |        |  |  |
+   |        |  |  +--Spermatophyta (3687)
+   |        |  |  |  |
+   |        |  |  |  +--Magnoliopsida (3687)
+   |        |  |  |     |
+   |        |  |  |     +--Proteales (52)
+   |        |  |  |     |  |
+   |        |  |  |     |  +--Nelumbonaceae (52)
+   |        |  |  |     |     |
+   |        |  |  |     |     +--Nelumbo nucifera (Sacred lotus) (52)
+   |        |  |  |     |
+   |        |  |  |     +--Ranunculales (69)
+   |        |  |  |     |  |
+   |        |  |  |     |  +--Ranunculaceae (37)
+   |        |  |  |     |  |  |
+   |        |  |  |     |  |  +--Thalictroideae (37)
+   |        |  |  |     |  |     |
+   |        |  |  |     |  |     +--Aquilegia coerulea (Rocky mountain columbine) (37)
+   |        |  |  |     |  |
+   |        |  |  |     |  +--Papaveraceae (32)
+   |        |  |  |     |     |
+   |        |  |  |     |     +--Papaveroideae (32)
+   |        |  |  |     |        |
+   |        |  |  |     |        +--Macleaya cordata (32)
+   |        |  |  |     |
+   |        |  |  |     +--Liliopsida (854)
+   |        |  |  |     |  |
+   |        |  |  |     |  +--Arecaceae (40)
+   |        |  |  |     |  |  |
+   |        |  |  |     |  |  +--Coryphoideae (40)
+   |        |  |  |     |  |     |
+   |        |  |  |     |  |     +--Phoeniceae (40)
+   |        |  |  |     |  |        |
+   |        |  |  |     |  |        +--Phoenix dactylifera (Date palm) (40)
+   |        |  |  |     |  |
+   |        |  |  |     |  +--Asparagales (46)
+   |        |  |  |     |  |  |
+   |        |  |  |     |  |  +--Orchidaceae (46)
+   |        |  |  |     |  |     |
+   |        |  |  |     |  |     +--Apostasioideae (20)
+   |        |  |  |     |  |     |  |
+   |        |  |  |     |  |     |  +--Apostasia shenzhenica (20)
+   |        |  |  |     |  |     |
+   |        |  |  |     |  |     +--Epidendroideae (26)
+   |        |  |  |     |  |        |
+   |        |  |  |     |  |        +--Malaxideae (26)
+   |        |  |  |     |  |           |
+   |        |  |  |     |  |           +--Dendrobiinae (26)
+   |        |  |  |     |  |              |
+   |        |  |  |     |  |              +--Dendrobium catenatum (26)
+   |        |  |  |     |  |
+   |        |  |  |     |  +--Poales (748)
+   |        |  |  |     |  |  |
+   |        |  |  |     |  |  +--Bromeliaceae (23)
+   |        |  |  |     |  |  |  |
+   |        |  |  |     |  |  |  +--Bromelioideae (23)
+   |        |  |  |     |  |  |     |
+   |        |  |  |     |  |  |     +--Ananas comosus (Pineapple) (Ananas ananas) (23)
+   |        |  |  |     |  |  |
+   |        |  |  |     |  |  +--Poaceae (725)
+   |        |  |  |     |  |     |
+   |        |  |  |     |  |     +--BOPclade (522)
+   |        |  |  |     |  |     |  |
+   |        |  |  |     |  |     |  +--Oryzoideae (343)
+   |        |  |  |     |  |     |  |  |
+   |        |  |  |     |  |     |  |  +--Oryzeae (343)
+   |        |  |  |     |  |     |  |     |
+   |        |  |  |     |  |     |  |     +--Oryzinae (343)
+   |        |  |  |     |  |     |  |        |
+   |        |  |  |     |  |     |  |        +--Oryza barthii (33)
+   |        |  |  |     |  |     |  |        |
+   |        |  |  |     |  |     |  |        +--Oryza (71)
+   |        |  |  |     |  |     |  |        |  |
+   |        |  |  |     |  |     |  |        |  +--Oryza sativa subsp. japonica (Rice) (35)
+   |        |  |  |     |  |     |  |        |  |
+   |        |  |  |     |  |     |  |        |  +--Oryza sativa subsp. indica (Rice) (36)
+   |        |  |  |     |  |     |  |        |
+   |        |  |  |     |  |     |  |        +--Leersia perrieri (41)
+   |        |  |  |     |  |     |  |        |
+   |        |  |  |     |  |     |  |        +--Oryza glumipatula (35)
+   |        |  |  |     |  |     |  |        |
+   |        |  |  |     |  |     |  |        +--Oryza punctata (Red rice) (40)
+   |        |  |  |     |  |     |  |        |
+   |        |  |  |     |  |     |  |        +--Oryza glaberrima (African rice) (31)
+   |        |  |  |     |  |     |  |        |
+   |        |  |  |     |  |     |  |        +--Oryza rufipogon (Brownbeard rice) (Asian wild rice) (38)
+   |        |  |  |     |  |     |  |        |
+   |        |  |  |     |  |     |  |        +--Oryza meridionalis (26)
+   |        |  |  |     |  |     |  |        |
+   |        |  |  |     |  |     |  |        +--Oryza brachyantha (malo sina) (28)
+   |        |  |  |     |  |     |  |
+   |        |  |  |     |  |     |  +--Pooideae (179)
+   |        |  |  |     |  |     |     |
+   |        |  |  |     |  |     |     +--Brachypodieae (38)
+   |        |  |  |     |  |     |     |  |
+   |        |  |  |     |  |     |     |  +--Brachypodium distachyon (Purple false brome) (Trachynia distachya) (38)
+   |        |  |  |     |  |     |     |
+   |        |  |  |     |  |     |     +--Triticodae (141)
+   |        |  |  |     |  |     |        |
+   |        |  |  |     |  |     |        +--Triticeae (141)
+   |        |  |  |     |  |     |           |
+   |        |  |  |     |  |     |           +--Triticinae (141)
+   |        |  |  |     |  |     |              |
+   |        |  |  |     |  |     |              +--Triticum urartu (Red wild einkorn) (Crithodium urartu) (20)
+   |        |  |  |     |  |     |              |
+   |        |  |  |     |  |     |              +--Triticum aestivum (Wheat) (121)
+   |        |  |  |     |  |     |
+   |        |  |  |     |  |     +--PACMADclade (203)
+   |        |  |  |     |  |        |
+   |        |  |  |     |  |        +--Panicoideae (203)
+   |        |  |  |     |  |           |
+   |        |  |  |     |  |           +--Andropogonodae (114)
+   |        |  |  |     |  |           |  |
+   |        |  |  |     |  |           |  +--Andropogoneae (114)
+   |        |  |  |     |  |           |     |
+   |        |  |  |     |  |           |     +--Sorghinae (39)
+   |        |  |  |     |  |           |     |  |
+   |        |  |  |     |  |           |     |  +--Sorghum bicolor (Sorghum) (Sorghum vulgare) (39)
+   |        |  |  |     |  |           |     |
+   |        |  |  |     |  |           |     +--Tripsacinae (75)
+   |        |  |  |     |  |           |        |
+   |        |  |  |     |  |           |        +--Zea mays (Maize) (75)
+   |        |  |  |     |  |           |
+   |        |  |  |     |  |           +--Panicodae (89)
+   |        |  |  |     |  |              |
+   |        |  |  |     |  |              +--Paniceae (89)
+   |        |  |  |     |  |                 |
+   |        |  |  |     |  |                 +--Cenchrinae (33)
+   |        |  |  |     |  |                 |  |
+   |        |  |  |     |  |                 |  +--Setaria italica (Foxtail millet) (Panicum italicum) (33)
+   |        |  |  |     |  |                 |
+   |        |  |  |     |  |                 +--Panicinae (56)
+   |        |  |  |     |  |                    |
+   |        |  |  |     |  |                    +--Panicum miliaceum (Proso millet) (Broomcorn millet) (56)
+   |        |  |  |     |  |
+   |        |  |  |     |  +--Zosteraceae (20)
+   |        |  |  |     |     |
+   |        |  |  |     |     +--Zostera marina (Eelgrass) (20)
+   |        |  |  |     |
+   |        |  |  |     +--Amborellales (24)
+   |        |  |  |     |  |
+   |        |  |  |     |  +--Amborellaceae (24)
+   |        |  |  |     |     |
+   |        |  |  |     |     +--Amborella trichopoda (24)
+   |        |  |  |     |
+   |        |  |  |     +--eudicotyledons (2688)
+   |        |  |  |        |
+   |        |  |  |        +--Gunneridae (2688)
+   |        |  |  |           |
+   |        |  |  |           +--Pentapetalae (2688)
+   |        |  |  |              |
+   |        |  |  |              +--Caryophyllales (22)
+   |        |  |  |              |  |
+   |        |  |  |              |  +--Chenopodiaceae (22)
+   |        |  |  |              |     |
+   |        |  |  |              |     +--Chenopodioideae (22)
+   |        |  |  |              |        |
+   |        |  |  |              |        +--Anserineae (22)
+   |        |  |  |              |           |
+   |        |  |  |              |           +--Spinacia oleracea (Spinach) (22)
+   |        |  |  |              |
+   |        |  |  |              +--rosids (1948)
+   |        |  |  |              |  |
+   |        |  |  |              |  +--fabids (1199)
+   |        |  |  |              |  |  |
+   |        |  |  |              |  |  +--Cucurbitales (59)
+   |        |  |  |              |  |  |  |
+   |        |  |  |              |  |  |  +--Cucurbitaceae (59)
+   |        |  |  |              |  |  |     |
+   |        |  |  |              |  |  |     +--Benincaseae (59)
+   |        |  |  |              |  |  |        |
+   |        |  |  |              |  |  |        +--Cucumis melo (Muskmelon) (33)
+   |        |  |  |              |  |  |        |
+   |        |  |  |              |  |  |        +--Cucumis sativus (Cucumber) (26)
+   |        |  |  |              |  |  |
+   |        |  |  |              |  |  +--Rosales (196)
+   |        |  |  |              |  |  |  |
+   |        |  |  |              |  |  |  +--Rosaceae (116)
+   |        |  |  |              |  |  |  |  |
+   |        |  |  |              |  |  |  |  +--Rosoideae (29)
+   |        |  |  |              |  |  |  |  |  |
+   |        |  |  |              |  |  |  |  |  +--Rosoideaeincertaesedis (29)
+   |        |  |  |              |  |  |  |  |     |
+   |        |  |  |              |  |  |  |  |     +--Rosa chinensis (China rose) (29)
+   |        |  |  |              |  |  |  |  |
+   |        |  |  |              |  |  |  |  +--Amygdaloideae (87)
+   |        |  |  |              |  |  |  |     |
+   |        |  |  |              |  |  |  |     +--Amygdaleae (46)
+   |        |  |  |              |  |  |  |     |  |
+   |        |  |  |              |  |  |  |     |  +--Prunus persica (Peach) (Amygdalus persica) (46)
+   |        |  |  |              |  |  |  |     |
+   |        |  |  |              |  |  |  |     +--Maleae (41)
+   |        |  |  |              |  |  |  |        |
+   |        |  |  |              |  |  |  |        +--Malus domestica (Apple) (Pyrus malus) (41)
+   |        |  |  |              |  |  |  |
+   |        |  |  |              |  |  |  +--Cannabaceae (54)
+   |        |  |  |              |  |  |  |  |
+   |        |  |  |              |  |  |  |  +--Parasponia andersonii (Sponia andersonii) (27)
+   |        |  |  |              |  |  |  |  |
+   |        |  |  |              |  |  |  |  +--Trema orientale (Charcoal tree) (Celtis orientalis) (27)
+   |        |  |  |              |  |  |  |
+   |        |  |  |              |  |  |  +--Moraceae (26)
+   |        |  |  |              |  |  |     |
+   |        |  |  |              |  |  |     +--Morus notabilis (26)
+   |        |  |  |              |  |  |
+   |        |  |  |              |  |  +--Fabales (683)
+   |        |  |  |              |  |  |  |
+   |        |  |  |              |  |  |  +--Fabaceae (683)
+   |        |  |  |              |  |  |     |
+   |        |  |  |              |  |  |     +--Papilionoideae (683)
+   |        |  |  |              |  |  |        |
+   |        |  |  |              |  |  |        +--50kbinversionclade (683)
+   |        |  |  |              |  |  |           |
+   |        |  |  |              |  |  |           +--genistoidssensulato (45)
+   |        |  |  |              |  |  |           |  |
+   |        |  |  |              |  |  |           |  +--coregenistoids (45)
+   |        |  |  |              |  |  |           |     |
+   |        |  |  |              |  |  |           |     +--Genisteae (45)
+   |        |  |  |              |  |  |           |        |
+   |        |  |  |              |  |  |           |        +--Lupinus angustifolius (Narrow-leaved blue lupine) (45)
+   |        |  |  |              |  |  |           |
+   |        |  |  |              |  |  |           +--NPAAAclade (547)
+   |        |  |  |              |  |  |           |  |
+   |        |  |  |              |  |  |           |  +--Hologalegina (138)
+   |        |  |  |              |  |  |           |  |  |
+   |        |  |  |              |  |  |           |  |  +--IRLclade (138)
+   |        |  |  |              |  |  |           |  |     |
+   |        |  |  |              |  |  |           |  |     +--Trifolieae (88)
+   |        |  |  |              |  |  |           |  |     |  |
+   |        |  |  |              |  |  |           |  |     |  +--Trifolium pratense (Red clover) (43)
+   |        |  |  |              |  |  |           |  |     |  |
+   |        |  |  |              |  |  |           |  |     |  +--Medicago truncatula (Barrel medic) (Medicago tribuloides) (45)
+   |        |  |  |              |  |  |           |  |     |
+   |        |  |  |              |  |  |           |  |     +--Cicereae (50)
+   |        |  |  |              |  |  |           |  |        |
+   |        |  |  |              |  |  |           |  |        +--Cicer arietinum (Chickpea) (Garbanzo) (50)
+   |        |  |  |              |  |  |           |  |
+   |        |  |  |              |  |  |           |  +--indigoferoid/millettioidclade (409)
+   |        |  |  |              |  |  |           |     |
+   |        |  |  |              |  |  |           |     +--Phaseoleae (409)
+   |        |  |  |              |  |  |           |        |
+   |        |  |  |              |  |  |           |        +--Phaseolus angularis (Azuki bean) (Vigna angularis) (39)
+   |        |  |  |              |  |  |           |        |
+   |        |  |  |              |  |  |           |        +--Mucuna pruriens (Velvet bean) (Dolichos pruriens) (38)
+   |        |  |  |              |  |  |           |        |
+   |        |  |  |              |  |  |           |        +--Phaseolus vulgaris (Kidney bean) (French bean) (42)
+   |        |  |  |              |  |  |           |        |
+   |        |  |  |              |  |  |           |        +--Cajanus cajan (Pigeon pea) (Cajanus indicus) (37)
+   |        |  |  |              |  |  |           |        |
+   |        |  |  |              |  |  |           |        +--Glycine (253)
+   |        |  |  |              |  |  |           |           |
+   |        |  |  |              |  |  |           |           +--Glycine max (Soybean) (Glycine hispida) (135)
+   |        |  |  |              |  |  |           |           |
+   |        |  |  |              |  |  |           |           +--Glycine soja (Wild soybean) (118)
+   |        |  |  |              |  |  |           |
+   |        |  |  |              |  |  |           +--dalbergioidssensulato (91)
+   |        |  |  |              |  |  |              |
+   |        |  |  |              |  |  |              +--Dalbergieae (91)
+   |        |  |  |              |  |  |                 |
+   |        |  |  |              |  |  |                 +--Pterocarpusclade (91)
+   |        |  |  |              |  |  |                    |
+   |        |  |  |              |  |  |                    +--Arachis hypogaea (Peanut) (91)
+   |        |  |  |              |  |  |
+   |        |  |  |              |  |  +--Malpighiales (180)
+   |        |  |  |              |  |  |  |
+   |        |  |  |              |  |  |  +--Salicaceae (69)
+   |        |  |  |              |  |  |  |  |
+   |        |  |  |              |  |  |  |  +--Saliceae (69)
+   |        |  |  |              |  |  |  |     |
+   |        |  |  |              |  |  |  |     +--Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa) (69)
+   |        |  |  |              |  |  |  |
+   |        |  |  |              |  |  |  +--Euphorbiaceae (111)
+   |        |  |  |              |  |  |     |
+   |        |  |  |              |  |  |     +--Acalyphoideae (26)
+   |        |  |  |              |  |  |     |  |
+   |        |  |  |              |  |  |     |  +--Acalypheae (26)
+   |        |  |  |              |  |  |     |     |
+   |        |  |  |              |  |  |     |     +--Ricinus communis (Castor bean) (26)
+   |        |  |  |              |  |  |     |
+   |        |  |  |              |  |  |     +--Crotonoideae (85)
+   |        |  |  |              |  |  |        |
+   |        |  |  |              |  |  |        +--Manihoteae (58)
+   |        |  |  |              |  |  |        |  |
+   |        |  |  |              |  |  |        |  +--Manihot esculenta (Cassava) (Jatropha manihot) (58)
+   |        |  |  |              |  |  |        |
+   |        |  |  |              |  |  |        +--Jatropheae (27)
+   |        |  |  |              |  |  |           |
+   |        |  |  |              |  |  |           +--Jatropha curcas (Barbados nut) (27)
+   |        |  |  |              |  |  |
+   |        |  |  |              |  |  +--Oxalidales (22)
+   |        |  |  |              |  |  |  |
+   |        |  |  |              |  |  |  +--Cephalotaceae (22)
+   |        |  |  |              |  |  |     |
+   |        |  |  |              |  |  |     +--Cephalotus follicularis (Albany pitcher plant) (22)
+   |        |  |  |              |  |  |
+   |        |  |  |              |  |  +--Fagales (59)
+   |        |  |  |              |  |     |
+   |        |  |  |              |  |     +--Juglandaceae (59)
+   |        |  |  |              |  |        |
+   |        |  |  |              |  |        +--Juglans regia (English walnut) (59)
+   |        |  |  |              |  |
+   |        |  |  |              |  +--Vitales (26)
+   |        |  |  |              |  |  |
+   |        |  |  |              |  |  +--Vitaceae (26)
+   |        |  |  |              |  |     |
+   |        |  |  |              |  |     +--Viteae (26)
+   |        |  |  |              |  |        |
+   |        |  |  |              |  |        +--Vitis vinifera (Grape) (26)
+   |        |  |  |              |  |
+   |        |  |  |              |  +--malvids (723)
+   |        |  |  |              |     |
+   |        |  |  |              |     +--Brassicales (241)
+   |        |  |  |              |     |  |
+   |        |  |  |              |     |  +--Brassicaceae (241)
+   |        |  |  |              |     |     |
+   |        |  |  |              |     |     +--Camelineae (97)
+   |        |  |  |              |     |     |  |
+   |        |  |  |              |     |     |  +--Capsella rubella (37)
+   |        |  |  |              |     |     |  |
+   |        |  |  |              |     |     |  +--Arabidopsis thaliana (Mouse-ear cress) (60)
+   |        |  |  |              |     |     |
+   |        |  |  |              |     |     +--Eutremeae (31)
+   |        |  |  |              |     |     |  |
+   |        |  |  |              |     |     |  +--Eutrema salsugineum (Saltwater cress) (Sisymbrium salsugineum) (31)
+   |        |  |  |              |     |     |
+   |        |  |  |              |     |     +--Brassiceae (113)
+   |        |  |  |              |     |        |
+   |        |  |  |              |     |        +--Brassica campestris (Field mustard) (47)
+   |        |  |  |              |     |        |
+   |        |  |  |              |     |        +--Brassica napus (Rape) (66)
+   |        |  |  |              |     |
+   |        |  |  |              |     +--Sapindales (106)
+   |        |  |  |              |     |  |
+   |        |  |  |              |     |  +--Rutaceae (106)
+   |        |  |  |              |     |     |
+   |        |  |  |              |     |     +--Aurantioideae (106)
+   |        |  |  |              |     |        |
+   |        |  |  |              |     |        +--Citrus unshiu (Satsuma mandarin) (Citrus nobilis var. unshiu) (32)
+   |        |  |  |              |     |        |
+   |        |  |  |              |     |        +--Citrus clementina (33)
+   |        |  |  |              |     |        |
+   |        |  |  |              |     |        +--Citrus sinensis (Sweet orange) (Citrus aurantium var. sinensis) (41)
+   |        |  |  |              |     |
+   |        |  |  |              |     +--Myrtales (65)
+   |        |  |  |              |     |  |
+   |        |  |  |              |     |  +--Lythraceae (30)
+   |        |  |  |              |     |  |  |
+   |        |  |  |              |     |  |  +--Punica granatum (Pomegranate) (30)
+   |        |  |  |              |     |  |
+   |        |  |  |              |     |  +--Myrtaceae (35)
+   |        |  |  |              |     |     |
+   |        |  |  |              |     |     +--Myrtoideae (35)
+   |        |  |  |              |     |        |
+   |        |  |  |              |     |        +--Eucalypteae (35)
+   |        |  |  |              |     |           |
+   |        |  |  |              |     |           +--Eucalyptus grandis (Flooded gum) (35)
+   |        |  |  |              |     |
+   |        |  |  |              |     +--Malvales (311)
+   |        |  |  |              |        |
+   |        |  |  |              |        +--Malvaceae (311)
+   |        |  |  |              |           |
+   |        |  |  |              |           +--Grewioideae (50)
+   |        |  |  |              |           |  |
+   |        |  |  |              |           |  +--Apeibeae (50)
+   |        |  |  |              |           |     |
+   |        |  |  |              |           |     +--Corchorus capsularis (Jute) (25)
+   |        |  |  |              |           |     |
+   |        |  |  |              |           |     +--Corchorus olitorius (25)
+   |        |  |  |              |           |
+   |        |  |  |              |           +--Byttnerioideae (40)
+   |        |  |  |              |           |  |
+   |        |  |  |              |           |  +--Theobroma cacao (Cacao) (Cocoa) (40)
+   |        |  |  |              |           |
+   |        |  |  |              |           +--Malvoideae (221)
+   |        |  |  |              |              |
+   |        |  |  |              |              +--Gossypium raimondii (New World cotton) (86)
+   |        |  |  |              |              |
+   |        |  |  |              |              +--Gossypium barbadense (Sea-island cotton) (Egyptian cotton) (46)
+   |        |  |  |              |              |
+   |        |  |  |              |              +--Gossypium hirsutum (Upland cotton) (Gossypium mexicanum) (89)
+   |        |  |  |              |
+   |        |  |  |              +--asterids (718)
+   |        |  |  |                 |
+   |        |  |  |                 +--campanulids (174)
+   |        |  |  |                 |  |
+   |        |  |  |                 |  +--Asterales (174)
+   |        |  |  |                 |     |
+   |        |  |  |                 |     +--Asteraceae (174)
+   |        |  |  |                 |        |
+   |        |  |  |                 |        +--Cichorioideae (39)
+   |        |  |  |                 |        |  |
+   |        |  |  |                 |        |  +--Cichorieae (39)
+   |        |  |  |                 |        |     |
+   |        |  |  |                 |        |     +--Lactucinae (39)
+   |        |  |  |                 |        |        |
+   |        |  |  |                 |        |        +--Lactuca sativa (Garden lettuce) (39)
+   |        |  |  |                 |        |
+   |        |  |  |                 |        +--Asteroideae (135)
+   |        |  |  |                 |           |
+   |        |  |  |                 |           +--Anthemideae (77)
+   |        |  |  |                 |           |  |
+   |        |  |  |                 |           |  +--Artemisiinae (77)
+   |        |  |  |                 |           |     |
+   |        |  |  |                 |           |     +--Artemisia annua (Sweet wormwood) (77)
+   |        |  |  |                 |           |
+   |        |  |  |                 |           +--Heliantheaealliance (58)
+   |        |  |  |                 |              |
+   |        |  |  |                 |              +--Heliantheae (58)
+   |        |  |  |                 |                 |
+   |        |  |  |                 |                 +--Helianthus annuus (Common sunflower) (58)
+   |        |  |  |                 |
+   |        |  |  |                 +--lamiids (544)
+   |        |  |  |                    |
+   |        |  |  |                    +--Gentianales (23)
+   |        |  |  |                    |  |
+   |        |  |  |                    |  +--Rubiaceae (23)
+   |        |  |  |                    |     |
+   |        |  |  |                    |     +--Ixoroideae (23)
+   |        |  |  |                    |        |
+   |        |  |  |                    |        +--Gardenieaecomplex (23)
+   |        |  |  |                    |           |
+   |        |  |  |                    |           +--Bertiereae-Coffeeaeclade (23)
+   |        |  |  |                    |              |
+   |        |  |  |                    |              +--Coffeeae (23)
+   |        |  |  |                    |                 |
+   |        |  |  |                    |                 +--Coffea canephora (Robusta coffee) (23)
+   |        |  |  |                    |
+   |        |  |  |                    +--Lamiales (150)
+   |        |  |  |                    |  |
+   |        |  |  |                    |  +--Lamiaceae (88)
+   |        |  |  |                    |  |  |
+   |        |  |  |                    |  |  +--Nepetoideae (88)
+   |        |  |  |                    |  |     |
+   |        |  |  |                    |  |     +--Mentheae (88)
+   |        |  |  |                    |  |        |
+   |        |  |  |                    |  |        +--Salvia (88)
+   |        |  |  |                    |  |           |
+   |        |  |  |                    |  |           +--Calosphace (88)
+   |        |  |  |                    |  |              |
+   |        |  |  |                    |  |              +--Salvia splendens (Scarlet sage) (88)
+   |        |  |  |                    |  |
+   |        |  |  |                    |  +--Bignoniaceae (36)
+   |        |  |  |                    |  |  |
+   |        |  |  |                    |  |  +--Crescentiina (36)
+   |        |  |  |                    |  |     |
+   |        |  |  |                    |  |     +--Tabebuiaalliance (36)
+   |        |  |  |                    |  |        |
+   |        |  |  |                    |  |        +--Handroanthus impetiginosus (36)
+   |        |  |  |                    |  |
+   |        |  |  |                    |  +--Phrymaceae (26)
+   |        |  |  |                    |     |
+   |        |  |  |                    |     +--Erythranthe guttata (Yellow monkey flower) (Mimulus guttatus) (26)
+   |        |  |  |                    |
+   |        |  |  |                    +--Solanales (371)
+   |        |  |  |                       |
+   |        |  |  |                       +--Solanaceae (371)
+   |        |  |  |                          |
+   |        |  |  |                          +--Solanoideae (208)
+   |        |  |  |                          |  |
+   |        |  |  |                          |  +--Capsiceae (122)
+   |        |  |  |                          |  |  |
+   |        |  |  |                          |  |  +--Capsicum chinense (Scotch bonnet) (Bonnet pepper) (39)
+   |        |  |  |                          |  |  |
+   |        |  |  |                          |  |  +--Capsicum baccatum (Peruvian pepper) (40)
+   |        |  |  |                          |  |  |
+   |        |  |  |                          |  |  +--Capsicum annuum (Capsicum pepper) (43)
+   |        |  |  |                          |  |
+   |        |  |  |                          |  +--Solaneae (86)
+   |        |  |  |                          |     |
+   |        |  |  |                          |     +--Solanum tuberosum (Potato) (54)
+   |        |  |  |                          |     |
+   |        |  |  |                          |     +--Solanum (32)
+   |        |  |  |                          |        |
+   |        |  |  |                          |        +--Solanum lycopersicum (Tomato) (Lycopersicon esculentum) (32)
+   |        |  |  |                          |
+   |        |  |  |                          +--Nicotianoideae (163)
+   |        |  |  |                             |
+   |        |  |  |                             +--Nicotianeae (163)
+   |        |  |  |                                |
+   |        |  |  |                                +--Nicotiana sylvestris (Wood tobacco) (South American tobacco) (41)
+   |        |  |  |                                |
+   |        |  |  |                                +--Nicotiana attenuata (Coyote tobacco) (36)
+   |        |  |  |                                |
+   |        |  |  |                                +--Nicotiana tabacum (Common tobacco) (86)
+   |        |  |  |
+   |        |  |  +--Lycopodiopsida (31)
+   |        |  |     |
+   |        |  |     +--Selaginellales (31)
+   |        |  |        |
+   |        |  |        +--Selaginellaceae (31)
+   |        |  |           |
+   |        |  |           +--Selaginella moellendorffii (Spikemoss) (31)
+   |        |  |
+   |        |  +--Bryophyta (42)
+   |        |     |
+   |        |     +--Bryophytina (42)
+   |        |        |
+   |        |        +--Bryopsida (42)
+   |        |           |
+   |        |           +--Funariidae (42)
+   |        |              |
+   |        |              +--Funariales (42)
+   |        |                 |
+   |        |                 +--Funariaceae (42)
+   |        |                    |
+   |        |                    +--Physcomitrella patens subsp. patens (Moss) (42)
+   |        |
+   |        +--Charophyceae (7)
+   |        |  |
+   |        |  +--Charales (7)
+   |        |     |
+   |        |     +--Characeae (7)
+   |        |        |
+   |        |        +--Chara braunii (Braun's stonewort) (7)
+   |        |
+   |        +--Klebsormidiophyceae (3)
+   |           |
+   |           +--Klebsormidiales (3)
+   |              |
+   |              +--Klebsormidiaceae (3)
+   |                 |
+   |                 +--Klebsormidium nitens (Green alga) (Ulothrix nitens) (3)
+   |
+   +--Bacteria (1)
+      |
+      +--Firmicutes (1)
+         |
+         +--Bacilli (1)
+            |
+            +--Bacillales (1)
+               |
+               +--Bacillaceae (1)
+                  |
+                  +--Bacillus oleivorans (1)

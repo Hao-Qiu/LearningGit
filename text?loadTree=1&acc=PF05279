@@ -1,0 +1,842 @@
+# Species tree for PF05279
+# Generated from Pfam version 33.1
+   |
+   +--Eukaryota (824)
+   |  |
+   |  +--Metazoa (822)
+   |  |  |
+   |  |  +--Chordata (821)
+   |  |  |  |
+   |  |  |  +--Craniata (821)
+   |  |  |     |
+   |  |  |     +--Vertebrata (821)
+   |  |  |        |
+   |  |  |        +--Euteleostomi (818)
+   |  |  |        |  |
+   |  |  |        |  +--Lepidosauria (4)
+   |  |  |        |  |  |
+   |  |  |        |  |  +--Squamata (4)
+   |  |  |        |  |     |
+   |  |  |        |  |     +--Bifurcata (4)
+   |  |  |        |  |        |
+   |  |  |        |  |        +--Gekkota (2)
+   |  |  |        |  |        |  |
+   |  |  |        |  |        |  +--Gekkonidae (2)
+   |  |  |        |  |        |     |
+   |  |  |        |  |        |     +--Gekkoninae (2)
+   |  |  |        |  |        |        |
+   |  |  |        |  |        |        +--Paroedura picta (2)
+   |  |  |        |  |        |
+   |  |  |        |  |        +--Unidentata (2)
+   |  |  |        |  |           |
+   |  |  |        |  |           +--Episquamata (2)
+   |  |  |        |  |              |
+   |  |  |        |  |              +--Toxicofera (2)
+   |  |  |        |  |                 |
+   |  |  |        |  |                 +--Iguania (2)
+   |  |  |        |  |                    |
+   |  |  |        |  |                    +--Dactyloidae (2)
+   |  |  |        |  |                       |
+   |  |  |        |  |                       +--Anolis carolinensis (Green anole) (American chameleon) (2)
+   |  |  |        |  |
+   |  |  |        |  +--Archelosauria (74)
+   |  |  |        |  |  |
+   |  |  |        |  |  +--Testudines (16)
+   |  |  |        |  |  |  |
+   |  |  |        |  |  |  +--Cryptodira (16)
+   |  |  |        |  |  |     |
+   |  |  |        |  |  |     +--Durocryptodira (14)
+   |  |  |        |  |  |     |  |
+   |  |  |        |  |  |     |  +--Americhelydia (1)
+   |  |  |        |  |  |     |  |  |
+   |  |  |        |  |  |     |  |  +--Chelonioidea (1)
+   |  |  |        |  |  |     |  |     |
+   |  |  |        |  |  |     |  |     +--Cheloniidae (1)
+   |  |  |        |  |  |     |  |        |
+   |  |  |        |  |  |     |  |        +--Chelonia mydas (Green sea-turtle) (Chelonia agassizi) (1)
+   |  |  |        |  |  |     |  |
+   |  |  |        |  |  |     |  +--Testudinoidea (13)
+   |  |  |        |  |  |     |     |
+   |  |  |        |  |  |     |     +--Platysternidae (1)
+   |  |  |        |  |  |     |     |  |
+   |  |  |        |  |  |     |     |  +--Platysternon megacephalum (big-headed turtle) (1)
+   |  |  |        |  |  |     |     |
+   |  |  |        |  |  |     |     +--Testudinidae (12)
+   |  |  |        |  |  |     |        |
+   |  |  |        |  |  |     |        +--Gopherus agassizii (Agassiz's desert tortoise) (12)
+   |  |  |        |  |  |     |
+   |  |  |        |  |  |     +--Trionychia (2)
+   |  |  |        |  |  |        |
+   |  |  |        |  |  |        +--Trionychidae (2)
+   |  |  |        |  |  |           |
+   |  |  |        |  |  |           +--Pelodiscus sinensis (Chinese softshell turtle) (Trionyx sinensis) (2)
+   |  |  |        |  |  |
+   |  |  |        |  |  +--Archosauria (58)
+   |  |  |        |  |     |
+   |  |  |        |  |     +--Dinosauria (41)
+   |  |  |        |  |     |  |
+   |  |  |        |  |     |  +--Saurischia (41)
+   |  |  |        |  |     |     |
+   |  |  |        |  |     |     +--Theropoda (41)
+   |  |  |        |  |     |        |
+   |  |  |        |  |     |        +--Coelurosauria (41)
+   |  |  |        |  |     |           |
+   |  |  |        |  |     |           +--Aves (41)
+   |  |  |        |  |     |              |
+   |  |  |        |  |     |              +--Palaeognathae (1)
+   |  |  |        |  |     |              |  |
+   |  |  |        |  |     |              |  +--Tinamiformes (1)
+   |  |  |        |  |     |              |     |
+   |  |  |        |  |     |              |     +--Tinamidae (1)
+   |  |  |        |  |     |              |        |
+   |  |  |        |  |     |              |        +--Tinamus guttatus (White-throated tinamou) (1)
+   |  |  |        |  |     |              |
+   |  |  |        |  |     |              +--Neognathae (40)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Passeriformes (8)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Corvoidea (2)
+   |  |  |        |  |     |                 |  |  |
+   |  |  |        |  |     |                 |  |  +--Corvidae (2)
+   |  |  |        |  |     |                 |  |     |
+   |  |  |        |  |     |                 |  |     +--Corvus brachyrhynchos (American crow) (2)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Passeroidea (2)
+   |  |  |        |  |     |                 |  |  |
+   |  |  |        |  |     |                 |  |  +--Estrildidae (2)
+   |  |  |        |  |     |                 |  |     |
+   |  |  |        |  |     |                 |  |     +--Estrildinae (1)
+   |  |  |        |  |     |                 |  |     |  |
+   |  |  |        |  |     |                 |  |     |  +--Taeniopygia guttata (Zebra finch) (Poephila guttata) (1)
+   |  |  |        |  |     |                 |  |     |
+   |  |  |        |  |     |                 |  |     +--Chloebia gouldiae (Gouldian finch) (Erythrura gouldiae) (1)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Muscicapidae (2)
+   |  |  |        |  |     |                 |  |  |
+   |  |  |        |  |     |                 |  |  +--Ficedula albicollis (Collared flycatcher) (Muscicapa albicollis) (2)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Pipridae (2)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Manacus vitellinus (golden-collared manakin) (2)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Sphenisciformes (2)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Spheniscidae (2)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Aptenodytes forsteri (Emperor penguin) (2)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Galloanserae (13)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Anseriformes (2)
+   |  |  |        |  |     |                 |  |  |
+   |  |  |        |  |     |                 |  |  +--Anatidae (2)
+   |  |  |        |  |     |                 |  |     |
+   |  |  |        |  |     |                 |  |     +--Anatinae (2)
+   |  |  |        |  |     |                 |  |        |
+   |  |  |        |  |     |                 |  |        +--Anas platyrhynchos (Mallard) (Anas boschas) (2)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Galliformes (11)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Phasianidae (9)
+   |  |  |        |  |     |                 |     |  |
+   |  |  |        |  |     |                 |     |  +--Meleagridinae (3)
+   |  |  |        |  |     |                 |     |  |  |
+   |  |  |        |  |     |                 |     |  |  +--Meleagris gallopavo (Wild turkey) (3)
+   |  |  |        |  |     |                 |     |  |
+   |  |  |        |  |     |                 |     |  +--Phasianinae (6)
+   |  |  |        |  |     |                 |     |     |
+   |  |  |        |  |     |                 |     |     +--Gallus gallus (Chicken) (6)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Odontophoridae (2)
+   |  |  |        |  |     |                 |        |
+   |  |  |        |  |     |                 |        +--Callipepla squamata (Scaled quail) (1)
+   |  |  |        |  |     |                 |        |
+   |  |  |        |  |     |                 |        +--Colinus virginianus (Northern bobwhite) (Tetrao virginianus) (1)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Piciformes (1)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Picidae (1)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Dryobates pubescens (Downy woodpecker) (Picoides pubescens) (1)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Pelecaniformes (4)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Ardeidae (2)
+   |  |  |        |  |     |                 |  |  |
+   |  |  |        |  |     |                 |  |  +--Egretta garzetta (Little egret) (2)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Threskiornithidae (2)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Nipponia nippon (Crested ibis) (Ibis nippon) (2)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Apodiformes (2)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Trochilidae (2)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Calypte anna (Anna's hummingbird) (Archilochus anna) (2)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Cuculiformes (2)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Cuculidae (2)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Cuculus canorus (common cuckoo) (2)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Opisthocomiformes (2)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Opisthocomidae (2)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Opisthocomus hoazin (Hoatzin) (Phasianus hoazin) (2)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Charadriiformes (2)
+   |  |  |        |  |     |                 |  |
+   |  |  |        |  |     |                 |  +--Charadriidae (2)
+   |  |  |        |  |     |                 |     |
+   |  |  |        |  |     |                 |     +--Charadrius vociferus (Killdeer) (Aegialitis vocifera) (2)
+   |  |  |        |  |     |                 |
+   |  |  |        |  |     |                 +--Columbiformes (4)
+   |  |  |        |  |     |                    |
+   |  |  |        |  |     |                    +--Columbidae (4)
+   |  |  |        |  |     |                       |
+   |  |  |        |  |     |                       +--Columba livia (Rock dove) (4)
+   |  |  |        |  |     |
+   |  |  |        |  |     +--Crocodylia (17)
+   |  |  |        |  |        |
+   |  |  |        |  |        +--Alligatoridae (17)
+   |  |  |        |  |           |
+   |  |  |        |  |           +--Alligatorinae (17)
+   |  |  |        |  |              |
+   |  |  |        |  |              +--Alligator mississippiensis (American alligator) (7)
+   |  |  |        |  |              |
+   |  |  |        |  |              +--Alligator sinensis (Chinese alligator) (10)
+   |  |  |        |  |
+   |  |  |        |  +--Actinopterygii (404)
+   |  |  |        |  |  |
+   |  |  |        |  |  +--Neopterygii (404)
+   |  |  |        |  |     |
+   |  |  |        |  |     +--Teleostei (401)
+   |  |  |        |  |     |  |
+   |  |  |        |  |     |  +--Protacanthopterygii (64)
+   |  |  |        |  |     |  |  |
+   |  |  |        |  |     |  |  +--Esociformes (18)
+   |  |  |        |  |     |  |  |  |
+   |  |  |        |  |     |  |  |  +--Esocidae (18)
+   |  |  |        |  |     |  |  |     |
+   |  |  |        |  |     |  |  |     +--Esox lucius (Northern pike) (18)
+   |  |  |        |  |     |  |  |
+   |  |  |        |  |     |  |  +--Salmoniformes (46)
+   |  |  |        |  |     |  |     |
+   |  |  |        |  |     |  |     +--Salmonidae (46)
+   |  |  |        |  |     |  |        |
+   |  |  |        |  |     |  |        +--Salmoninae (46)
+   |  |  |        |  |     |  |           |
+   |  |  |        |  |     |  |           +--Salmo salar (Atlantic salmon) (41)
+   |  |  |        |  |     |  |           |
+   |  |  |        |  |     |  |           +--Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri) (5)
+   |  |  |        |  |     |  |
+   |  |  |        |  |     |  +--Neoteleostei (288)
+   |  |  |        |  |     |  |  |
+   |  |  |        |  |     |  |  +--Acanthomorphata (288)
+   |  |  |        |  |     |  |     |
+   |  |  |        |  |     |  |     +--Carangaria (18)
+   |  |  |        |  |     |  |     |  |
+   |  |  |        |  |     |  |     |  +--Carangiformes (8)
+   |  |  |        |  |     |  |     |  |  |
+   |  |  |        |  |     |  |     |  |  +--Carangidae (8)
+   |  |  |        |  |     |  |     |  |     |
+   |  |  |        |  |     |  |     |  |     +--Seriola dumerili (Greater amberjack) (Caranx dumerili) (8)
+   |  |  |        |  |     |  |     |  |
+   |  |  |        |  |     |  |     |  +--Pleuronectiformes (10)
+   |  |  |        |  |     |  |     |     |
+   |  |  |        |  |     |  |     |     +--Pleuronectoidei (10)
+   |  |  |        |  |     |  |     |        |
+   |  |  |        |  |     |  |     |        +--Cynoglossidae (7)
+   |  |  |        |  |     |  |     |        |  |
+   |  |  |        |  |     |  |     |        |  +--Cynoglossinae (7)
+   |  |  |        |  |     |  |     |        |     |
+   |  |  |        |  |     |  |     |        |     +--Cynoglossus semilaevis (Tongue sole) (7)
+   |  |  |        |  |     |  |     |        |
+   |  |  |        |  |     |  |     |        +--Scophthalmidae (3)
+   |  |  |        |  |     |  |     |           |
+   |  |  |        |  |     |  |     |           +--Scophthalmus maximus (Turbot) (Psetta maxima) (3)
+   |  |  |        |  |     |  |     |
+   |  |  |        |  |     |  |     +--Eupercaria (23)
+   |  |  |        |  |     |  |     |  |
+   |  |  |        |  |     |  |     |  +--Perciformes (2)
+   |  |  |        |  |     |  |     |  |  |
+   |  |  |        |  |     |  |     |  |  +--Cottioidei (2)
+   |  |  |        |  |     |  |     |  |     |
+   |  |  |        |  |     |  |     |  |     +--Gasterosteales (2)
+   |  |  |        |  |     |  |     |  |        |
+   |  |  |        |  |     |  |     |  |        +--Gasterosteidae (2)
+   |  |  |        |  |     |  |     |  |           |
+   |  |  |        |  |     |  |     |  |           +--Gasterosteus aculeatus (Three-spined stickleback) (2)
+   |  |  |        |  |     |  |     |  |
+   |  |  |        |  |     |  |     |  +--Labriformes (7)
+   |  |  |        |  |     |  |     |  |  |
+   |  |  |        |  |     |  |     |  |  +--Labridae (7)
+   |  |  |        |  |     |  |     |  |     |
+   |  |  |        |  |     |  |     |  |     +--Labrus bergylta (ballan wrasse) (7)
+   |  |  |        |  |     |  |     |  |
+   |  |  |        |  |     |  |     |  +--Tetraodontiformes (14)
+   |  |  |        |  |     |  |     |     |
+   |  |  |        |  |     |  |     |     +--Molidae (5)
+   |  |  |        |  |     |  |     |     |  |
+   |  |  |        |  |     |  |     |     |  +--Mola mola (Ocean sunfish) (Tetraodon mola) (5)
+   |  |  |        |  |     |  |     |     |
+   |  |  |        |  |     |  |     |     +--Tetradontoidea (9)
+   |  |  |        |  |     |  |     |        |
+   |  |  |        |  |     |  |     |        +--Tetraodontidae (9)
+   |  |  |        |  |     |  |     |           |
+   |  |  |        |  |     |  |     |           +--Takifugu rubripes (Japanese pufferfish) (Fugu rubripes) (6)
+   |  |  |        |  |     |  |     |           |
+   |  |  |        |  |     |  |     |           +--Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon nigroviridis) (3)
+   |  |  |        |  |     |  |     |
+   |  |  |        |  |     |  |     +--Anabantaria (19)
+   |  |  |        |  |     |  |     |  |
+   |  |  |        |  |     |  |     |  +--Anabantiformes (11)
+   |  |  |        |  |     |  |     |  |  |
+   |  |  |        |  |     |  |     |  |  +--Anabantoidei (11)
+   |  |  |        |  |     |  |     |  |     |
+   |  |  |        |  |     |  |     |  |     +--Anabantidae (11)
+   |  |  |        |  |     |  |     |  |        |
+   |  |  |        |  |     |  |     |  |        +--Anabas testudineus (Climbing perch) (Anthias testudineus) (11)
+   |  |  |        |  |     |  |     |  |
+   |  |  |        |  |     |  |     |  +--Synbranchiformes (8)
+   |  |  |        |  |     |  |     |     |
+   |  |  |        |  |     |  |     |     +--Mastacembelidae (8)
+   |  |  |        |  |     |  |     |        |
+   |  |  |        |  |     |  |     |        +--Mastacembelus armatus (zig-zag eel) (8)
+   |  |  |        |  |     |  |     |
+   |  |  |        |  |     |  |     +--Gobiaria (3)
+   |  |  |        |  |     |  |     |  |
+   |  |  |        |  |     |  |     |  +--Gobiiformes (3)
+   |  |  |        |  |     |  |     |     |
+   |  |  |        |  |     |  |     |     +--Gobioidei (3)
+   |  |  |        |  |     |  |     |        |
+   |  |  |        |  |     |  |     |        +--Gobiidae (3)
+   |  |  |        |  |     |  |     |           |
+   |  |  |        |  |     |  |     |           +--Oxudercinae (3)
+   |  |  |        |  |     |  |     |              |
+   |  |  |        |  |     |  |     |              +--Periophthalmus magnuspinnatus (3)
+   |  |  |        |  |     |  |     |
+   |  |  |        |  |     |  |     +--Ovalentaria (225)
+   |  |  |        |  |     |  |        |
+   |  |  |        |  |     |  |        +--Cichlomorphae (64)
+   |  |  |        |  |     |  |        |  |
+   |  |  |        |  |     |  |        |  +--Cichliformes (64)
+   |  |  |        |  |     |  |        |     |
+   |  |  |        |  |     |  |        |     +--Cichlidae (64)
+   |  |  |        |  |     |  |        |        |
+   |  |  |        |  |     |  |        |        +--Africancichlids (59)
+   |  |  |        |  |     |  |        |        |  |
+   |  |  |        |  |     |  |        |        |  +--Pseudocrenilabrinae (59)
+   |  |  |        |  |     |  |        |        |     |
+   |  |  |        |  |     |  |        |        |     +--Lamprologini (5)
+   |  |  |        |  |     |  |        |        |     |  |
+   |  |  |        |  |     |  |        |        |     |  +--Neolamprologus brichardi (Fairy cichlid) (Lamprologus brichardi) (5)
+   |  |  |        |  |     |  |        |        |     |
+   |  |  |        |  |     |  |        |        |     +--Haplochromini (49)
+   |  |  |        |  |     |  |        |        |     |  |
+   |  |  |        |  |     |  |        |        |     |  +--Pundamilia nyererei (5)
+   |  |  |        |  |     |  |        |        |     |  |
+   |  |  |        |  |     |  |        |        |     |  +--Haplochromis burtoni (Burton's mouthbrooder) (Chromis burtoni) (17)
+   |  |  |        |  |     |  |        |        |     |  |
+   |  |  |        |  |     |  |        |        |     |  +--Maylandia (14)
+   |  |  |        |  |     |  |        |        |     |  |  |
+   |  |  |        |  |     |  |        |        |     |  |  +--Maylandia zebra (zebra mbuna) (14)
+   |  |  |        |  |     |  |        |        |     |  |
+   |  |  |        |  |     |  |        |        |     |  +--Astatotilapia calliptera (Eastern happy) (Chromis callipterus) (13)
+   |  |  |        |  |     |  |        |        |     |
+   |  |  |        |  |     |  |        |        |     +--Oreochromini (5)
+   |  |  |        |  |     |  |        |        |        |
+   |  |  |        |  |     |  |        |        |        +--Oreochromis niloticus (Nile tilapia) (Tilapia nilotica) (5)
+   |  |  |        |  |     |  |        |        |
+   |  |  |        |  |     |  |        |        +--NewWorldcichlids (5)
+   |  |  |        |  |     |  |        |           |
+   |  |  |        |  |     |  |        |           +--Cichlasomatinae (5)
+   |  |  |        |  |     |  |        |              |
+   |  |  |        |  |     |  |        |              +--Heroini (5)
+   |  |  |        |  |     |  |        |                 |
+   |  |  |        |  |     |  |        |                 +--Amphilophus citrinellus (Midas cichlid) (Cichlasoma citrinellum) (5)
+   |  |  |        |  |     |  |        |
+   |  |  |        |  |     |  |        +--Atherinomorphae (116)
+   |  |  |        |  |     |  |        |  |
+   |  |  |        |  |     |  |        |  +--Beloniformes (25)
+   |  |  |        |  |     |  |        |  |  |
+   |  |  |        |  |     |  |        |  |  +--Adrianichthyidae (25)
+   |  |  |        |  |     |  |        |  |     |
+   |  |  |        |  |     |  |        |  |     +--Oryziinae (25)
+   |  |  |        |  |     |  |        |  |        |
+   |  |  |        |  |     |  |        |  |        +--Oryzias melastigma (Marine medaka) (12)
+   |  |  |        |  |     |  |        |  |        |
+   |  |  |        |  |     |  |        |  |        +--Oryzias latipes (Japanese rice fish) (Japanese killifish) (13)
+   |  |  |        |  |     |  |        |  |
+   |  |  |        |  |     |  |        |  +--Cyprinodontiformes (91)
+   |  |  |        |  |     |  |        |     |
+   |  |  |        |  |     |  |        |     +--Rivulidae (21)
+   |  |  |        |  |     |  |        |     |  |
+   |  |  |        |  |     |  |        |     |  +--Austrofundulus limnaeus (15)
+   |  |  |        |  |     |  |        |     |  |
+   |  |  |        |  |     |  |        |     |  +--Kryptolebias marmoratus (Mangrove killifish) (Rivulus marmoratus) (6)
+   |  |  |        |  |     |  |        |     |
+   |  |  |        |  |     |  |        |     +--Cyprinodontidae (11)
+   |  |  |        |  |     |  |        |     |  |
+   |  |  |        |  |     |  |        |     |  +--Cyprinodon variegatus (Sheepshead minnow) (11)
+   |  |  |        |  |     |  |        |     |
+   |  |  |        |  |     |  |        |     +--Poeciliidae (59)
+   |  |  |        |  |     |  |        |        |
+   |  |  |        |  |     |  |        |        +--Poeciliinae (59)
+   |  |  |        |  |     |  |        |           |
+   |  |  |        |  |     |  |        |           +--Poecilia latipinna (sailfin molly) (7)
+   |  |  |        |  |     |  |        |           |
+   |  |  |        |  |     |  |        |           +--Xiphophorus maculatus (Southern platyfish) (Platypoecilus maculatus) (11)
+   |  |  |        |  |     |  |        |           |
+   |  |  |        |  |     |  |        |           +--Poecilia mexicana (12)
+   |  |  |        |  |     |  |        |           |
+   |  |  |        |  |     |  |        |           +--Poecilia formosa (Amazon molly) (Limia formosa) (9)
+   |  |  |        |  |     |  |        |           |
+   |  |  |        |  |     |  |        |           +--Poecilia reticulata (Guppy) (Acanthophacelus reticulatus) (20)
+   |  |  |        |  |     |  |        |
+   |  |  |        |  |     |  |        +--Pomacentridae (45)
+   |  |  |        |  |     |  |           |
+   |  |  |        |  |     |  |           +--Acanthochromis polyacanthus (spiny chromis) (12)
+   |  |  |        |  |     |  |           |
+   |  |  |        |  |     |  |           +--Amphiprion ocellaris (Clown anemonefish) (8)
+   |  |  |        |  |     |  |           |
+   |  |  |        |  |     |  |           +--Amphiprion percula (Orange clownfish) (Lutjanus percula) (12)
+   |  |  |        |  |     |  |           |
+   |  |  |        |  |     |  |           +--Stegastes partitus (bicolor damselfish) (13)
+   |  |  |        |  |     |  |
+   |  |  |        |  |     |  +--Osteoglossocephala (15)
+   |  |  |        |  |     |  |  |
+   |  |  |        |  |     |  |  +--Osteoglossomorpha (15)
+   |  |  |        |  |     |  |     |
+   |  |  |        |  |     |  |     +--Osteoglossiformes (15)
+   |  |  |        |  |     |  |        |
+   |  |  |        |  |     |  |        +--Osteoglossidae (1)
+   |  |  |        |  |     |  |        |  |
+   |  |  |        |  |     |  |        |  +--Scleropages formosus (Asian bonytongue) (Osteoglossum formosum) (1)
+   |  |  |        |  |     |  |        |
+   |  |  |        |  |     |  |        +--Mormyridae (14)
+   |  |  |        |  |     |  |           |
+   |  |  |        |  |     |  |           +--Paramormyrops kingsleyae (14)
+   |  |  |        |  |     |  |
+   |  |  |        |  |     |  +--Ostariophysi (34)
+   |  |  |        |  |     |     |
+   |  |  |        |  |     |     +--Cypriniformes (10)
+   |  |  |        |  |     |     |  |
+   |  |  |        |  |     |     |  +--Cyprinidae (10)
+   |  |  |        |  |     |     |     |
+   |  |  |        |  |     |     |     +--Danio rerio (Zebrafish) (Brachydanio rerio) (7)
+   |  |  |        |  |     |     |     |
+   |  |  |        |  |     |     |     +--Labeo rohita (Indian major carp) (Cyprinus rohita) (3)
+   |  |  |        |  |     |     |
+   |  |  |        |  |     |     +--Siluriformes (9)
+   |  |  |        |  |     |     |  |
+   |  |  |        |  |     |     |  +--Ictaluridae (9)
+   |  |  |        |  |     |     |     |
+   |  |  |        |  |     |     |     +--Ictalurus punctatus (Channel catfish) (Silurus punctatus) (9)
+   |  |  |        |  |     |     |
+   |  |  |        |  |     |     +--Characiformes (15)
+   |  |  |        |  |     |        |
+   |  |  |        |  |     |        +--Characoidei (15)
+   |  |  |        |  |     |           |
+   |  |  |        |  |     |           +--Pygocentrus nattereri (Red-bellied piranha) (8)
+   |  |  |        |  |     |           |
+   |  |  |        |  |     |           +--Characidae (7)
+   |  |  |        |  |     |              |
+   |  |  |        |  |     |              +--Astyanax mexicanus (Blind cave fish) (Astyanax fasciatus mexicanus) (7)
+   |  |  |        |  |     |
+   |  |  |        |  |     +--Holostei (3)
+   |  |  |        |  |        |
+   |  |  |        |  |        +--Semionotiformes (3)
+   |  |  |        |  |           |
+   |  |  |        |  |           +--Lepisosteidae (3)
+   |  |  |        |  |              |
+   |  |  |        |  |              +--Lepisosteus oculatus (Spotted gar) (3)
+   |  |  |        |  |
+   |  |  |        |  +--Coelacanthiformes (1)
+   |  |  |        |  |  |
+   |  |  |        |  |  +--Coelacanthidae (1)
+   |  |  |        |  |     |
+   |  |  |        |  |     +--Latimeria chalumnae (Coelacanth) (1)
+   |  |  |        |  |
+   |  |  |        |  +--Amphibia (3)
+   |  |  |        |  |  |
+   |  |  |        |  |  +--Batrachia (3)
+   |  |  |        |  |     |
+   |  |  |        |  |     +--Anura (3)
+   |  |  |        |  |        |
+   |  |  |        |  |        +--Pipoidea (3)
+   |  |  |        |  |           |
+   |  |  |        |  |           +--Pipidae (3)
+   |  |  |        |  |              |
+   |  |  |        |  |              +--Xenopodinae (3)
+   |  |  |        |  |                 |
+   |  |  |        |  |                 +--Xenopus (3)
+   |  |  |        |  |                    |
+   |  |  |        |  |                    +--Xenopus laevis (African clawed frog) (2)
+   |  |  |        |  |                    |
+   |  |  |        |  |                    +--Xenopus tropicalis (Western clawed frog) (Silurana tropicalis) (1)
+   |  |  |        |  |
+   |  |  |        |  +--Mammalia (332)
+   |  |  |        |     |
+   |  |  |        |     +--Monotremata (1)
+   |  |  |        |     |  |
+   |  |  |        |     |  +--Ornithorhynchidae (1)
+   |  |  |        |     |     |
+   |  |  |        |     |     +--Ornithorhynchus anatinus (Duckbill platypus) (1)
+   |  |  |        |     |
+   |  |  |        |     +--Metatheria (4)
+   |  |  |        |     |  |
+   |  |  |        |     |  +--Didelphimorphia (1)
+   |  |  |        |     |  |  |
+   |  |  |        |     |  |  +--Didelphidae (1)
+   |  |  |        |     |  |     |
+   |  |  |        |     |  |     +--Monodelphis domestica (Gray short-tailed opossum) (1)
+   |  |  |        |     |  |
+   |  |  |        |     |  +--Dasyuromorphia (3)
+   |  |  |        |     |     |
+   |  |  |        |     |     +--Dasyuridae (3)
+   |  |  |        |     |        |
+   |  |  |        |     |        +--Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius) (3)
+   |  |  |        |     |
+   |  |  |        |     +--Eutheria (327)
+   |  |  |        |        |
+   |  |  |        |        +--Afrotheria (2)
+   |  |  |        |        |  |
+   |  |  |        |        |  +--Proboscidea (2)
+   |  |  |        |        |     |
+   |  |  |        |        |     +--Elephantidae (2)
+   |  |  |        |        |        |
+   |  |  |        |        |        +--Loxodonta africana (African elephant) (2)
+   |  |  |        |        |
+   |  |  |        |        +--Euarchontoglires (249)
+   |  |  |        |        |  |
+   |  |  |        |        |  +--Primates (185)
+   |  |  |        |        |  |  |
+   |  |  |        |        |  |  +--Haplorrhini (175)
+   |  |  |        |        |  |  |  |
+   |  |  |        |        |  |  |  +--Catarrhini (144)
+   |  |  |        |        |  |  |  |  |
+   |  |  |        |        |  |  |  |  +--Hominidae (32)
+   |  |  |        |        |  |  |  |  |  |
+   |  |  |        |        |  |  |  |  |  +--Homo sapiens (Human) (13)
+   |  |  |        |        |  |  |  |  |  |
+   |  |  |        |        |  |  |  |  |  +--Pan paniscus (Pygmy chimpanzee) (Bonobo) (3)
+   |  |  |        |        |  |  |  |  |  |
+   |  |  |        |        |  |  |  |  |  +--Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii) (2)
+   |  |  |        |        |  |  |  |  |  |
+   |  |  |        |        |  |  |  |  |  +--Pan troglodytes (Chimpanzee) (14)
+   |  |  |        |        |  |  |  |  |
+   |  |  |        |        |  |  |  |  +--Hylobatidae (13)
+   |  |  |        |        |  |  |  |  |  |
+   |  |  |        |        |  |  |  |  |  +--Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys) (13)
+   |  |  |        |        |  |  |  |  |
+   |  |  |        |        |  |  |  |  +--Cercopithecidae (99)
+   |  |  |        |        |  |  |  |     |
+   |  |  |        |        |  |  |  |     +--Cercopithecinae (75)
+   |  |  |        |        |  |  |  |     |  |
+   |  |  |        |        |  |  |  |     |  +--Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey) (13)
+   |  |  |        |        |  |  |  |     |  |
+   |  |  |        |        |  |  |  |     |  +--Mandrillus leucophaeus (Drill) (Papio leucophaeus) (10)
+   |  |  |        |        |  |  |  |     |  |
+   |  |  |        |        |  |  |  |     |  +--Papio anubis (Olive baboon) (13)
+   |  |  |        |        |  |  |  |     |  |
+   |  |  |        |        |  |  |  |     |  +--Macaca nemestrina (Pig-tailed macaque) (12)
+   |  |  |        |        |  |  |  |     |  |
+   |  |  |        |        |  |  |  |     |  +--Chlorocebus sabaeus (Green monkey) (Cercopithecus sabaeus) (1)
+   |  |  |        |        |  |  |  |     |  |
+   |  |  |        |        |  |  |  |     |  +--Macaca mulatta (Rhesus macaque) (13)
+   |  |  |        |        |  |  |  |     |  |
+   |  |  |        |        |  |  |  |     |  +--Cercocebus atys (Sooty mangabey) (Cercocebus torquatus atys) (13)
+   |  |  |        |        |  |  |  |     |
+   |  |  |        |        |  |  |  |     +--Colobinae (24)
+   |  |  |        |        |  |  |  |        |
+   |  |  |        |        |  |  |  |        +--Rhinopithecus bieti (Black snub-nosed monkey) (Pygathrix bieti) (11)
+   |  |  |        |        |  |  |  |        |
+   |  |  |        |        |  |  |  |        +--Rhinopithecus roxellana (Golden snub-nosed monkey) (Pygathrix roxellana) (13)
+   |  |  |        |        |  |  |  |
+   |  |  |        |        |  |  |  +--Platyrrhini (26)
+   |  |  |        |        |  |  |  |  |
+   |  |  |        |        |  |  |  |  +--Aotidae (13)
+   |  |  |        |        |  |  |  |  |  |
+   |  |  |        |        |  |  |  |  |  +--Aotus nancymaae (Ma's night monkey) (13)
+   |  |  |        |        |  |  |  |  |
+   |  |  |        |        |  |  |  |  +--Cebidae (13)
+   |  |  |        |        |  |  |  |     |
+   |  |  |        |        |  |  |  |     +--Callitrichinae (13)
+   |  |  |        |        |  |  |  |        |
+   |  |  |        |        |  |  |  |        +--Callithrix (13)
+   |  |  |        |        |  |  |  |           |
+   |  |  |        |        |  |  |  |           +--Callithrix jacchus (White-tufted-ear marmoset) (13)
+   |  |  |        |        |  |  |  |
+   |  |  |        |        |  |  |  +--Tarsiiformes (5)
+   |  |  |        |        |  |  |     |
+   |  |  |        |        |  |  |     +--Tarsiidae (5)
+   |  |  |        |        |  |  |        |
+   |  |  |        |        |  |  |        +--Tarsius syrichta (Philippine tarsier) (5)
+   |  |  |        |        |  |  |
+   |  |  |        |        |  |  +--Strepsirrhini (10)
+   |  |  |        |        |  |     |
+   |  |  |        |        |  |     +--Lemuriformes (9)
+   |  |  |        |        |  |     |  |
+   |  |  |        |        |  |     |  +--Indriidae (9)
+   |  |  |        |        |  |     |     |
+   |  |  |        |        |  |     |     +--Propithecus coquereli (Coquerel's sifaka) (Propithecus verreauxi coquereli) (9)
+   |  |  |        |        |  |     |
+   |  |  |        |        |  |     +--Lorisiformes (1)
+   |  |  |        |        |  |        |
+   |  |  |        |        |  |        +--Galagidae (1)
+   |  |  |        |        |  |           |
+   |  |  |        |        |  |           +--Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby) (1)
+   |  |  |        |        |  |
+   |  |  |        |        |  +--Scandentia (1)
+   |  |  |        |        |  |  |
+   |  |  |        |        |  |  +--Tupaiidae (1)
+   |  |  |        |        |  |     |
+   |  |  |        |        |  |     +--Tupaia chinensis (Chinese tree shrew) (1)
+   |  |  |        |        |  |
+   |  |  |        |        |  +--Glires (63)
+   |  |  |        |        |     |
+   |  |  |        |        |     +--Rodentia (60)
+   |  |  |        |        |     |  |
+   |  |  |        |        |     |  +--Sciuromorpha (4)
+   |  |  |        |        |     |  |  |
+   |  |  |        |        |     |  |  +--Sciuridae (4)
+   |  |  |        |        |     |  |     |
+   |  |  |        |        |     |  |     +--Xerinae (4)
+   |  |  |        |        |     |  |        |
+   |  |  |        |        |     |  |        +--Marmotini (4)
+   |  |  |        |        |     |  |           |
+   |  |  |        |        |     |  |           +--Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilus tridecemlineatus) (4)
+   |  |  |        |        |     |  |
+   |  |  |        |        |     |  +--Hystricomorpha (9)
+   |  |  |        |        |     |  |  |
+   |  |  |        |        |     |  |  +--Caviidae (4)
+   |  |  |        |        |     |  |  |  |
+   |  |  |        |        |     |  |  |  +--Cavia porcellus (Guinea pig) (4)
+   |  |  |        |        |     |  |  |
+   |  |  |        |        |     |  |  +--Bathyergidae (5)
+   |  |  |        |        |     |  |     |
+   |  |  |        |        |     |  |     +--Heterocephalus glaber (Naked mole rat) (2)
+   |  |  |        |        |     |  |     |
+   |  |  |        |        |     |  |     +--Fukomys damarensis (Damaraland mole rat) (Cryptomys damarensis) (3)
+   |  |  |        |        |     |  |
+   |  |  |        |        |     |  +--Myomorpha (45)
+   |  |  |        |        |     |  |  |
+   |  |  |        |        |     |  |  +--Muroidea (45)
+   |  |  |        |        |     |  |     |
+   |  |  |        |        |     |  |     +--Muridae (33)
+   |  |  |        |        |     |  |     |  |
+   |  |  |        |        |     |  |     |  +--Murinae (33)
+   |  |  |        |        |     |  |     |     |
+   |  |  |        |        |     |  |     |     +--Rattus norvegicus (Rat) (14)
+   |  |  |        |        |     |  |     |     |
+   |  |  |        |        |     |  |     |     +--Mus (19)
+   |  |  |        |        |     |  |     |        |
+   |  |  |        |        |     |  |     |        +--Mus musculus (Mouse) (19)
+   |  |  |        |        |     |  |     |
+   |  |  |        |        |     |  |     +--Cricetidae (12)
+   |  |  |        |        |     |  |        |
+   |  |  |        |        |     |  |        +--Cricetinae (11)
+   |  |  |        |        |     |  |        |  |
+   |  |  |        |        |     |  |        |  +--Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus) (1)
+   |  |  |        |        |     |  |        |  |
+   |  |  |        |        |     |  |        |  +--Mesocricetus auratus (Golden hamster) (10)
+   |  |  |        |        |     |  |        |
+   |  |  |        |        |     |  |        +--Neotominae (1)
+   |  |  |        |        |     |  |           |
+   |  |  |        |        |     |  |           +--Neotoma lepida (Desert woodrat) (1)
+   |  |  |        |        |     |  |
+   |  |  |        |        |     |  +--Castorimorpha (2)
+   |  |  |        |        |     |     |
+   |  |  |        |        |     |     +--Heteromyidae (2)
+   |  |  |        |        |     |        |
+   |  |  |        |        |     |        +--Dipodomyinae (2)
+   |  |  |        |        |     |           |
+   |  |  |        |        |     |           +--Dipodomys ordii (Ord's kangaroo rat) (2)
+   |  |  |        |        |     |
+   |  |  |        |        |     +--Lagomorpha (3)
+   |  |  |        |        |        |
+   |  |  |        |        |        +--Leporidae (3)
+   |  |  |        |        |           |
+   |  |  |        |        |           +--Oryctolagus cuniculus (Rabbit) (3)
+   |  |  |        |        |
+   |  |  |        |        +--Laurasiatheria (76)
+   |  |  |        |           |
+   |  |  |        |           +--Carnivora (17)
+   |  |  |        |           |  |
+   |  |  |        |           |  +--Feliformia (4)
+   |  |  |        |           |  |  |
+   |  |  |        |           |  |  +--Felidae (4)
+   |  |  |        |           |  |     |
+   |  |  |        |           |  |     +--Felinae (4)
+   |  |  |        |           |  |        |
+   |  |  |        |           |  |        +--Felis catus (Cat) (Felis silvestris catus) (4)
+   |  |  |        |           |  |
+   |  |  |        |           |  +--Caniformia (13)
+   |  |  |        |           |     |
+   |  |  |        |           |     +--Phocidae (3)
+   |  |  |        |           |     |  |
+   |  |  |        |           |     |  +--Leptonychotes weddellii (Weddell seal) (Otaria weddellii) (3)
+   |  |  |        |           |     |
+   |  |  |        |           |     +--Canidae (2)
+   |  |  |        |           |     |  |
+   |  |  |        |           |     |  +--Vulpes vulpes (Red fox) (2)
+   |  |  |        |           |     |
+   |  |  |        |           |     +--Ursidae (8)
+   |  |  |        |           |        |
+   |  |  |        |           |        +--Ursus maritimus (Polar bear) (Thalarctos maritimus) (2)
+   |  |  |        |           |        |
+   |  |  |        |           |        +--Ursus americanus (American black bear) (Euarctos americanus) (5)
+   |  |  |        |           |        |
+   |  |  |        |           |        +--Ailuropoda melanoleuca (Giant panda) (1)
+   |  |  |        |           |
+   |  |  |        |           +--Eulipotyphla (2)
+   |  |  |        |           |  |
+   |  |  |        |           |  +--Erinaceidae (2)
+   |  |  |        |           |     |
+   |  |  |        |           |     +--Erinaceinae (2)
+   |  |  |        |           |        |
+   |  |  |        |           |        +--Erinaceus europaeus (Western European hedgehog) (2)
+   |  |  |        |           |
+   |  |  |        |           +--Cetartiodactyla (42)
+   |  |  |        |           |  |
+   |  |  |        |           |  +--Cetacea (24)
+   |  |  |        |           |  |  |
+   |  |  |        |           |  |  +--Odontoceti (24)
+   |  |  |        |           |  |     |
+   |  |  |        |           |  |     +--Monodontidae (12)
+   |  |  |        |           |  |     |  |
+   |  |  |        |           |  |     |  +--Delphinapterus leucas (Beluga whale) (12)
+   |  |  |        |           |  |     |
+   |  |  |        |           |  |     +--Physeteridae (7)
+   |  |  |        |           |  |     |  |
+   |  |  |        |           |  |     |  +--Physeter macrocephalus (Sperm whale) (Physeter catodon) (7)
+   |  |  |        |           |  |     |
+   |  |  |        |           |  |     +--Lipotidae (1)
+   |  |  |        |           |  |     |  |
+   |  |  |        |           |  |     |  +--Lipotes vexillifer (Yangtze river dolphin) (1)
+   |  |  |        |           |  |     |
+   |  |  |        |           |  |     +--Delphinidae (4)
+   |  |  |        |           |  |        |
+   |  |  |        |           |  |        +--Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus) (4)
+   |  |  |        |           |  |
+   |  |  |        |           |  +--Ruminantia (10)
+   |  |  |        |           |  |  |
+   |  |  |        |           |  |  +--Pecora (10)
+   |  |  |        |           |  |     |
+   |  |  |        |           |  |     +--Bovidae (10)
+   |  |  |        |           |  |        |
+   |  |  |        |           |  |        +--Bovinae (5)
+   |  |  |        |           |  |        |  |
+   |  |  |        |           |  |        |  +--Bos taurus (Bovine) (5)
+   |  |  |        |           |  |        |
+   |  |  |        |           |  |        +--Caprinae (5)
+   |  |  |        |           |  |           |
+   |  |  |        |           |  |           +--Capra hircus (Goat) (4)
+   |  |  |        |           |  |           |
+   |  |  |        |           |  |           +--Ovis aries (Sheep) (1)
+   |  |  |        |           |  |
+   |  |  |        |           |  +--Suina (8)
+   |  |  |        |           |     |
+   |  |  |        |           |     +--Suidae (8)
+   |  |  |        |           |        |
+   |  |  |        |           |        +--Sus scrofa (Pig) (8)
+   |  |  |        |           |
+   |  |  |        |           +--Chiroptera (5)
+   |  |  |        |           |  |
+   |  |  |        |           |  +--Microchiroptera (2)
+   |  |  |        |           |  |  |
+   |  |  |        |           |  |  +--Vespertilionidae (2)
+   |  |  |        |           |  |     |
+   |  |  |        |           |  |     +--Myotis lucifugus (Little brown bat) (2)
+   |  |  |        |           |  |
+   |  |  |        |           |  +--Megachiroptera (3)
+   |  |  |        |           |     |
+   |  |  |        |           |     +--Pteropodidae (3)
+   |  |  |        |           |        |
+   |  |  |        |           |        +--Pteropodinae (3)
+   |  |  |        |           |           |
+   |  |  |        |           |           +--Pteropus alecto (Black flying fox) (3)
+   |  |  |        |           |
+   |  |  |        |           +--Perissodactyla (10)
+   |  |  |        |              |
+   |  |  |        |              +--Equidae (10)
+   |  |  |        |                 |
+   |  |  |        |                 +--Equus caballus (Horse) (10)
+   |  |  |        |
+   |  |  |        +--Chondrichthyes (3)
+   |  |  |           |
+   |  |  |           +--Elasmobranchii (3)
+   |  |  |              |
+   |  |  |              +--Galeomorphii (3)
+   |  |  |                 |
+   |  |  |                 +--Galeoidea (3)
+   |  |  |                    |
+   |  |  |                    +--Orectolobiformes (1)
+   |  |  |                    |  |
+   |  |  |                    |  +--Hemiscylliidae (1)
+   |  |  |                    |     |
+   |  |  |                    |     +--Chiloscyllium punctatum (Brownbanded bambooshark) (Hemiscyllium punctatum) (1)
+   |  |  |                    |
+   |  |  |                    +--Carcharhiniformes (2)
+   |  |  |                       |
+   |  |  |                       +--Scyliorhinidae (2)
+   |  |  |                          |
+   |  |  |                          +--Scyliorhinus torazame (Cloudy catshark) (2)
+   |  |  |
+   |  |  +--Platyhelminthes (1)
+   |  |     |
+   |  |     +--Rhabditophora (1)
+   |  |        |
+   |  |        +--Macrostomorpha (1)
+   |  |           |
+   |  |           +--Macrostomida (1)
+   |  |              |
+   |  |              +--Macrostomidae (1)
+   |  |                 |
+   |  |                 +--Macrostomum lignano (1)
+   |  |
+   |  +--Fungi (2)
+   |     |
+   |     +--Dikarya (2)
+   |        |
+   |        +--Ascomycota (2)
+   |           |
+   |           +--Pezizomycotina (2)
+   |              |
+   |              +--Sordariomycetes (2)
+   |                 |
+   |                 +--Hypocreomycetidae (2)
+   |                    |
+   |                    +--Glomerellales (2)
+   |                       |
+   |                       +--Glomerellaceae (2)
+   |                          |
+   |                          +--Colletotrichum fructicola (strain Nara gc5) (Anthracnose fungus) (Colletotrichum gloeosporioides (strain Nara gc5)) (1)
+   |                          |
+   |                          +--Colletotrichum gloeosporioides (strain Cg-14) (Anthracnose fungus) (Glomerella cingulata) (1)
+   |
+   +--Bacteria (2)
+      |
+      +--Aquificae (1)
+      |  |
+      |  +--Aquificales (1)
+      |     |
+      |     +--Hydrogenothermaceae (1)
+      |        |
+      |        +--Hydrogenothermus marinus (1)
+      |
+      +--Chloroflexi (1)
+         |
+         +--Chloroflexia (1)
+            |
+            +--Chloroflexales (1)
+               |
+               +--Chloroflexineae (1)
+                  |
+                  +--Chloroflexaceae (1)
+                     |
+                     +--Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl) (1)
